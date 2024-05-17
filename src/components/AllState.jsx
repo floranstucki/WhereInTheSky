@@ -41,7 +41,7 @@ const AllState = () => {
   }, []);
   useEffect(() => {
     if (airport) {
-      mapboxgl.accessToken = 'pk.eyJ1Ijoic25vaHl5IiwiYSI6ImNsdnFwN2ZwbzA1OXkyam55NGdib3Fkc3MifQ.FHwq0NOjJHBbXTw-_RwysQ'; 
+      mapboxgl.accessToken = 'YOUR_MAPBOX_ACCESS_TOKEN'; 
       const coordinates = airport.coordinates.split(',').map(parseFloat);
       const map = new mapboxgl.Map({
         container: 'map',
