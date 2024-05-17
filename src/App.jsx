@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import { Routes, Route, Link } from "react-router-dom";
 import Airport from "./components/Airport";
-import Flight from "./components/Flight";
+import Favorite from "./components/Favorites";
 import Airplane from "./components/Airplane";
 import AllState from "./components/AllState";
 function App() {
@@ -14,21 +14,17 @@ function App() {
       <Link to="/airports">
         <button>Airports</button>
       </Link>
-      <Link to="/flights">
-        <button>Flights</button>
-      </Link>
-      <Link to="/airplanes">
-        <button>Airplanes</button>
+      <Link to="/favorites">
+        <button>Favorites</button>
       </Link>
 
       <Routes>
         <Route path="/" element={<AllState />} />
         <Route
           path="/airports"
-          element={<Airport premier="1517227831" dernier="1517230737" />}
+          element={<Airport />}
         />
-        <Route path="/flights" element={<Flight />} />
-        <Route path="/airplanes" element={<Airplane />} />
+        <Route path="/favorites" element={<Favorite />} />
       </Routes>
     </>
   );

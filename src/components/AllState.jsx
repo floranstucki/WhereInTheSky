@@ -1,29 +1,80 @@
-import React, { useState } from "react";
-import data from "../assets/codes.json";
+import React, { useState, useEffect } from 'react';
+import mapboxgl from 'mapbox-gl';
 
-const AllState = (props) => {
-  function AllStates() {
-    /*fetch("https://opensky-network.org/api/states/all")
-      .then((res) => res.json())
-      .then((data) => {
-        //console.log(data.states);
-        for (let i = 0; i < 1; i++) {
-          console.log(data.states[i]);
-          //const imageUrl = `https://api.mapbox.com/styles/v1/mapbox/light-v11/static/${longitude},${latitude},9/300x300?access_token=pk.eyJ1Ijoic25vaHl5IiwiYSI6ImNsaHp6b2F1eTFqN3MzZW50Nm03MHg1NzcifQ.nvh83n-eg-ph6ak7QjCWxg`;
-          const p = document.createElement("p");
-          p.textContent = data.states[i][5] + " " + data.states[i][6];
-          document.body.appendChild(p);
-        }
-      });*/
-      console.log(data);
-    
+import datas from '../assets/codes.json';
+import 'mapbox-gl/dist/mapbox-gl.css';
+
+const getRandomAirport = (airports) => {
+  const randomIndex = Math.floor(Math.random() * airports.length);
+  return airports[randomIndex];
+};
+
+const getCurrentDate = () => {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+};
+
+const AllState = () => {
+  const [airport, setAirport] = useState(null);
+
+  useEffect(() => {
+    const handleAirportSelection = (airports) => {
+      const storedAirport = localStorage.getItem('selectedAirport');
+      const storedDate = localStorage.getItem('date');
+      const currentDate = getCurrentDate();
+
+      if (storedAirport && storedDate === currentDate) {
+        setAirport(JSON.parse(storedAirport));
+        return;
+      }
+
+      const newAirport = getRandomAirport(airports);
+      setAirport(newAirport);
+      localStorage.setItem('selectedAirport', JSON.stringify(newAirport));
+      localStorage.setItem('date', currentDate);
+    };
+
+    handleAirportSelection(datas);
+  }, []);
+  useEffect(() => {
+    if (airport) {
+      mapboxgl.accessToken = 'pk.eyJ1Ijoic25vaHl5IiwiYSI6ImNsdnFwN2ZwbzA1OXkyam55NGdib3Fkc3MifQ.FHwq0NOjJHBbXTw-_RwysQ'; 
+      const coordinates = airport.coordinates.split(',').map(parseFloat);
+      const map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v11',
+        center: [coordinates[1], coordinates[0]],
+        zoom: 7
+      });
+      map.addControl(new mapboxgl.NavigationControl());
+      const marker = new mapboxgl.Marker()
+        .setLngLat([coordinates[1], coordinates[0]])
+        .addTo(map);
+  
+      return () => {
+        marker.remove();
+        map.remove();
+      };
+    }
+  }, [airport]);
+  
+  
+
+  if (!airport) {
+    return <div>Loading...</div>;
   }
-  return (
-    <>
-      <h1>Welcome to Where in the sky</h1>
 
-      {AllStates()}
-    </>
+  return (
+    <div>
+      <h1>Airport of the Day :</h1>
+      <h2>{airport.name} ({airport.ident})</h2>
+      <p>Airport coordinates : {airport.coordinates}</p>
+      <div id="map" style={{ width: '100%', height: '400px' }} />
+    </div>
   );
 };
+
 export default AllState;

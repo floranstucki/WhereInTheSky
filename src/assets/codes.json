@@ -5,7 +5,7 @@
     "name": "Honiara International Airport",
     "iso_country": "SB",
     "municipality": "Honiara",
-    "coordinates": "-9.428, 160.054993"
+    "coordinates": "-9.428,160.054993"
   },
   {
     "ident": "AYPY",
@@ -13,7 +13,7 @@
     "name": "Port Moresby Jacksons International Airport",
     "iso_country": "PG",
     "municipality": "Port Moresby",
-    "coordinates": "-9.443380355834961, 147.22000122070312"
+    "coordinates": "-9.443380355834961,147.22000122070312"
   },
   {
     "ident": "BIKF",
@@ -21,7 +21,7 @@
     "name": "Keflavík International Airport",
     "iso_country": "IS",
     "municipality": "Reykjavík",
-    "coordinates": "63.985001, -22.6056"
+    "coordinates": "63.985001,-22.6056"
   },
   {
     "ident": "CYEG",
@@ -29,7 +29,7 @@
     "name": "Edmonton International Airport",
     "iso_country": "CA",
     "municipality": "Edmonton",
-    "coordinates": "53.3097, -113.580002"
+    "coordinates": "53.3097,-113.580002"
   },
   {
     "ident": "CYHZ",
@@ -37,7 +37,7 @@
     "name": "Halifax / Stanfield International Airport",
     "iso_country": "CA",
     "municipality": "Halifax",
-    "coordinates": "44.8807983398, -63.5085983276"
+    "coordinates": "44.8807983398,-63.5085983276"
   },
   {
     "ident": "CYOW",
@@ -45,7 +45,7 @@
     "name": "Ottawa Macdonald-Cartier International Airport",
     "iso_country": "CA",
     "municipality": "Ottawa",
-    "coordinates": "45.322498, -75.669197"
+    "coordinates": "45.322498,-75.669197"
   },
   {
     "ident": "CYQB",
@@ -53,7 +53,7 @@
     "name": "Québec Jean Lesage International Airport",
     "iso_country": "CA",
     "municipality": "Québec",
-    "coordinates": "46.7911, -71.393303"
+    "coordinates": "46.7911,-71.393303"
   },
   {
     "ident": "CYUL",
@@ -61,7 +61,7 @@
     "name": "Montréal / Pierre Elliott Trudeau International Airport",
     "iso_country": "CA",
     "municipality": "Montréal",
-    "coordinates": "45.4706001282, -73.7407989502"
+    "coordinates": "45.4706001282,-73.7407989502"
   },
   {
     "ident": "CYVR",
@@ -69,7 +69,7 @@
     "name": "Vancouver International Airport",
     "iso_country": "CA",
     "municipality": "Vancouver",
-    "coordinates": "49.193901062, -123.183998108"
+    "coordinates": "49.193901062,-123.183998108"
   },
   {
     "ident": "CYWG",
@@ -77,7 +77,7 @@
     "name": "Winnipeg / James Armstrong Richardson International Airport",
     "iso_country": "CA",
     "municipality": "Winnipeg",
-    "coordinates": "49.909999847399995, -97.2398986816"
+    "coordinates": "49.909999847399995,-97.2398986816"
   },
   {
     "ident": "CYXS",
@@ -85,7 +85,7 @@
     "name": "Prince George Airport",
     "iso_country": "CA",
     "municipality": "Prince George",
-    "coordinates": "53.884311, -122.666554"
+    "coordinates": "53.884311,-122.666554"
   },
   {
     "ident": "CYXX",
@@ -93,7 +93,7 @@
     "name": "Abbotsford International Airport",
     "iso_country": "CA",
     "municipality": "Abbotsford",
-    "coordinates": "49.025299, -122.361"
+    "coordinates": "49.025299,-122.361"
   },
   {
     "ident": "CYYC",
@@ -101,7 +101,7 @@
     "name": "Calgary International Airport",
     "iso_country": "CA",
     "municipality": "Calgary",
-    "coordinates": "51.113899231, -114.019996643"
+    "coordinates": "51.113899231,-114.019996643"
   },
   {
     "ident": "CYYJ",
@@ -109,7 +109,7 @@
     "name": "Victoria International Airport",
     "iso_country": "CA",
     "municipality": "Victoria",
-    "coordinates": "48.6469, -123.426003"
+    "coordinates": "48.6469,-123.426003"
   },
   {
     "ident": "CYYT",
@@ -117,7 +117,7 @@
     "name": "St. John's International Airport",
     "iso_country": "CA",
     "municipality": "St. John's",
-    "coordinates": "47.618599, -52.7519"
+    "coordinates": "47.618599,-52.7519"
   },
   {
     "ident": "CYYZ",
@@ -125,7 +125,7 @@
     "name": "Toronto Lester B. Pearson International Airport",
     "iso_country": "CA",
     "municipality": "Toronto",
-    "coordinates": "43.6772, -79.6306"
+    "coordinates": "43.6772,-79.6306"
   },
   {
     "ident": "DAAG",
@@ -133,7 +133,7 @@
     "name": "Houari Boumediene Airport",
     "iso_country": "DZ",
     "municipality": "Algiers",
-    "coordinates": "36.693886, 3.214531"
+    "coordinates": "36.693886,3.214531"
   },
   {
     "ident": "DGAA",
@@ -141,7 +141,7 @@
     "name": "Kotoka International Airport",
     "iso_country": "GH",
     "municipality": "Accra",
-    "coordinates": "5.605189800262451, -0.16678600013256073"
+    "coordinates": "5.605189800262451,-0.16678600013256073"
   },
   {
     "ident": "DNAA",
@@ -149,7 +149,7 @@
     "name": "Nnamdi Azikiwe International Airport",
     "iso_country": "NG",
     "municipality": "Abuja",
-    "coordinates": "9.006790161132812, 7.263169765472412"
+    "coordinates": "9.006790161132812,7.263169765472412"
   },
   {
     "ident": "DNMM",
@@ -157,7 +157,7 @@
     "name": "Murtala Muhammed International Airport",
     "iso_country": "NG",
     "municipality": "Lagos",
-    "coordinates": "6.5773701667785645, 3.321160078048706"
+    "coordinates": "6.5773701667785645,3.321160078048706"
   },
   {
     "ident": "DRRN",
@@ -165,7 +165,7 @@
     "name": "Diori Hamani International Airport",
     "iso_country": "NE",
     "municipality": "Niamey",
-    "coordinates": "13.4815, 2.18361"
+    "coordinates": "13.4815,2.18361"
   },
   {
     "ident": "DTTA",
@@ -173,7 +173,7 @@
     "name": "Tunis Carthage International Airport",
     "iso_country": "TN",
     "municipality": "Tunis",
-    "coordinates": "36.851002, 10.2272"
+    "coordinates": "36.851002,10.2272"
   },
   {
     "ident": "EBBR",
@@ -181,7 +181,7 @@
     "name": "Brussels Airport",
     "iso_country": "BE",
     "municipality": "Zaventem",
-    "coordinates": "50.901402, 4.48444"
+    "coordinates": "50.901402,4.48444"
   },
   {
     "ident": "EDDB",
@@ -189,7 +189,7 @@
     "name": "Berlin Brandenburg Airport",
     "iso_country": "DE",
     "municipality": "Berlin",
-    "coordinates": "52.362247, 13.500672"
+    "coordinates": "52.362247,13.500672"
   },
   {
     "ident": "EDDF",
@@ -197,7 +197,7 @@
     "name": "Frankfurt Airport",
     "iso_country": "DE",
     "municipality": "Frankfurt am Main",
-    "coordinates": "50.036521, 8.561268"
+    "coordinates": "50.036521,8.561268"
   },
   {
     "ident": "EDDH",
@@ -205,7 +205,7 @@
     "name": "Hamburg Helmut Schmidt Airport",
     "iso_country": "DE",
     "municipality": "Hamburg",
-    "coordinates": "53.630402, 9.98823"
+    "coordinates": "53.630402,9.98823"
   },
   {
     "ident": "EDDK",
@@ -213,7 +213,7 @@
     "name": "Cologne Bonn Airport",
     "iso_country": "DE",
     "municipality": "Köln (Cologne)",
-    "coordinates": "50.865898, 7.14274"
+    "coordinates": "50.865898,7.14274"
   },
   {
     "ident": "EDDL",
@@ -221,7 +221,7 @@
     "name": "Düsseldorf Airport",
     "iso_country": "DE",
     "municipality": "Düsseldorf",
-    "coordinates": "51.289501, 6.76678"
+    "coordinates": "51.289501,6.76678"
   },
   {
     "ident": "EDDM",
@@ -229,7 +229,7 @@
     "name": "Munich Airport",
     "iso_country": "DE",
     "municipality": "Munich",
-    "coordinates": "48.353802, 11.7861"
+    "coordinates": "48.353802,11.7861"
   },
   {
     "ident": "EDDN",
@@ -237,7 +237,7 @@
     "name": "Nuremberg Airport",
     "iso_country": "DE",
     "municipality": "Nuremberg",
-    "coordinates": "49.498699, 11.078056"
+    "coordinates": "49.498699,11.078056"
   },
   {
     "ident": "EDDP",
@@ -245,7 +245,7 @@
     "name": "Leipzig/Halle Airport",
     "iso_country": "DE",
     "municipality": "Leipzig",
-    "coordinates": "51.423889, 12.236389"
+    "coordinates": "51.423889,12.236389"
   },
   {
     "ident": "EDDS",
@@ -253,7 +253,7 @@
     "name": "Stuttgart Airport",
     "iso_country": "DE",
     "municipality": "Stuttgart",
-    "coordinates": "48.689899444599995, 9.22196006775"
+    "coordinates": "48.689899444599995,9.22196006775"
   },
   {
     "ident": "EDDV",
@@ -261,7 +261,7 @@
     "name": "Hannover Airport",
     "iso_country": "DE",
     "municipality": "Hannover",
-    "coordinates": "52.461102, 9.68508"
+    "coordinates": "52.461102,9.68508"
   },
   {
     "ident": "EETN",
@@ -269,7 +269,7 @@
     "name": "Lennart Meri Tallinn Airport",
     "iso_country": "EE",
     "municipality": "Tallinn",
-    "coordinates": "59.41329956049999, 24.832799911499997"
+    "coordinates": "59.41329956049999,24.832799911499997"
   },
   {
     "ident": "EFHK",
@@ -277,7 +277,7 @@
     "name": "Helsinki Vantaa Airport",
     "iso_country": "FI",
     "municipality": "Helsinki",
-    "coordinates": "60.3172, 24.963301"
+    "coordinates": "60.3172,24.963301"
   },
   {
     "ident": "EGAA",
@@ -285,7 +285,7 @@
     "name": "Belfast International Airport",
     "iso_country": "GB",
     "municipality": "Belfast",
-    "coordinates": "54.6575012207, -6.2158298492399995"
+    "coordinates": "54.6575012207,-6.2158298492399995"
   },
   {
     "ident": "EGBB",
@@ -293,7 +293,7 @@
     "name": "Birmingham International Airport",
     "iso_country": "GB",
     "municipality": "Birmingham",
-    "coordinates": "52.453899383499994, -1.74802994728"
+    "coordinates": "52.453899383499994,-1.74802994728"
   },
   {
     "ident": "EGCC",
@@ -301,7 +301,7 @@
     "name": "Manchester Airport",
     "iso_country": "GB",
     "municipality": "Manchester",
-    "coordinates": "53.349375, -2.279521"
+    "coordinates": "53.349375,-2.279521"
   },
   {
     "ident": "EGGW",
@@ -309,7 +309,7 @@
     "name": "London Luton Airport",
     "iso_country": "GB",
     "municipality": "London",
-    "coordinates": "51.874698638916016, -0.36833301186561584"
+    "coordinates": "51.874698638916016,-0.36833301186561584"
   },
   {
     "ident": "EGKK",
@@ -317,7 +317,7 @@
     "name": "London Gatwick Airport",
     "iso_country": "GB",
     "municipality": "London",
-    "coordinates": "51.148102, -0.190278"
+    "coordinates": "51.148102,-0.190278"
   },
   {
     "ident": "EGLL",
@@ -325,15 +325,15 @@
     "name": "London Heathrow Airport",
     "iso_country": "GB",
     "municipality": "London",
-    "coordinates": "51.4706, -0.461941"
+    "coordinates": "51.4706,-0.461941"
   },
   {
     "ident": "EGPF",
     "type": "large_airport",
     "name": "Glasgow International Airport",
     "iso_country": "GB",
-    "municipality": "Paisley, Renfrewshire",
-    "coordinates": "55.871899, -4.43306"
+    "municipality": "Paisley,Renfrewshire",
+    "coordinates": "55.871899,-4.43306"
   },
   {
     "ident": "EGPH",
@@ -341,7 +341,7 @@
     "name": "Edinburgh Airport",
     "iso_country": "GB",
     "municipality": "Edinburgh",
-    "coordinates": "55.950145, -3.372288"
+    "coordinates": "55.950145,-3.372288"
   },
   {
     "ident": "EGSS",
@@ -349,7 +349,7 @@
     "name": "London Stansted Airport",
     "iso_country": "GB",
     "municipality": "London",
-    "coordinates": "51.8849983215, 0.234999999404"
+    "coordinates": "51.8849983215,0.234999999404"
   },
   {
     "ident": "EHAM",
@@ -357,7 +357,7 @@
     "name": "Amsterdam Airport Schiphol",
     "iso_country": "NL",
     "municipality": "Amsterdam",
-    "coordinates": "52.308601, 4.76389"
+    "coordinates": "52.308601,4.76389"
   },
   {
     "ident": "EHEH",
@@ -365,7 +365,7 @@
     "name": "Eindhoven Airport",
     "iso_country": "NL",
     "municipality": "Eindhoven",
-    "coordinates": "51.4500999451, 5.37452983856"
+    "coordinates": "51.4500999451,5.37452983856"
   },
   {
     "ident": "EHU",
@@ -373,7 +373,7 @@
     "name": "Ezhou Huahu Airport",
     "iso_country": "CN",
     "municipality": "Ezhou",
-    "coordinates": "30.341178, 115.03926"
+    "coordinates": "30.341178,115.03926"
   },
   {
     "ident": "EIDW",
@@ -381,7 +381,7 @@
     "name": "Dublin Airport",
     "iso_country": "IE",
     "municipality": "Dublin",
-    "coordinates": "53.428713, -6.262121"
+    "coordinates": "53.428713,-6.262121"
   },
   {
     "ident": "EINN",
@@ -389,7 +389,7 @@
     "name": "Shannon Airport",
     "iso_country": "IE",
     "municipality": "Shannon",
-    "coordinates": "52.702, -8.92482"
+    "coordinates": "52.702,-8.92482"
   },
   {
     "ident": "EKBI",
@@ -397,7 +397,7 @@
     "name": "Billund Airport",
     "iso_country": "DK",
     "municipality": "Billund",
-    "coordinates": "55.7402992249, 9.15178012848"
+    "coordinates": "55.7402992249,9.15178012848"
   },
   {
     "ident": "EKCH",
@@ -405,7 +405,7 @@
     "name": "Copenhagen Kastrup Airport",
     "iso_country": "DK",
     "municipality": "Copenhagen",
-    "coordinates": "55.617900848389, 12.656000137329"
+    "coordinates": "55.617900848389,12.656000137329"
   },
   {
     "ident": "ELLX",
@@ -413,47 +413,47 @@
     "name": "Luxembourg-Findel International Airport",
     "iso_country": "LU",
     "municipality": "Luxembourg",
-    "coordinates": "49.6233333, 6.2044444"
+    "coordinates": "49.6233333,6.2044444"
   },
   {
     "ident": "ENBR",
     "type": "large_airport",
-    "name": "Bergen Airport, Flesland",
+    "name": "Bergen Airport,Flesland",
     "iso_country": "NO",
     "municipality": "Bergen",
-    "coordinates": "60.2934, 5.21814"
+    "coordinates": "60.2934,5.21814"
   },
   {
     "ident": "ENGM",
     "type": "large_airport",
-    "name": "Oslo Airport, Gardermoen",
+    "name": "Oslo Airport,Gardermoen",
     "iso_country": "NO",
     "municipality": "Oslo",
-    "coordinates": "60.193901, 11.1004"
+    "coordinates": "60.193901,11.1004"
   },
   {
     "ident": "ENTC",
     "type": "large_airport",
-    "name": "Tromsø Airport, Langnes",
+    "name": "Tromsø Airport,Langnes",
     "iso_country": "NO",
     "municipality": "Tromsø",
-    "coordinates": "69.683296, 18.9189"
+    "coordinates": "69.683296,18.9189"
   },
   {
     "ident": "ENVA",
     "type": "large_airport",
-    "name": "Trondheim Airport, Værnes",
+    "name": "Trondheim Airport,Værnes",
     "iso_country": "NO",
     "municipality": "Trondheim",
-    "coordinates": "63.457802, 10.924"
+    "coordinates": "63.457802,10.924"
   },
   {
     "ident": "ENZV",
     "type": "large_airport",
-    "name": "Stavanger Airport, Sola",
+    "name": "Stavanger Airport,Sola",
     "iso_country": "NO",
     "municipality": "Stavanger",
-    "coordinates": "58.876701, 5.63778"
+    "coordinates": "58.876701,5.63778"
   },
   {
     "ident": "EPGD",
@@ -461,7 +461,7 @@
     "name": "Gdańsk Lech Wałęsa Airport",
     "iso_country": "PL",
     "municipality": "Gdańsk",
-    "coordinates": "54.377601623535156, 18.46619987487793"
+    "coordinates": "54.377601623535156,18.46619987487793"
   },
   {
     "ident": "EPKK",
@@ -469,7 +469,7 @@
     "name": "Kraków John Paul II International Airport",
     "iso_country": "PL",
     "municipality": "Kraków",
-    "coordinates": "50.077702, 19.7848"
+    "coordinates": "50.077702,19.7848"
   },
   {
     "ident": "EPWA",
@@ -477,7 +477,7 @@
     "name": "Warsaw Chopin Airport",
     "iso_country": "PL",
     "municipality": "Warsaw",
-    "coordinates": "52.1656990051, 20.967100143399996"
+    "coordinates": "52.1656990051,20.967100143399996"
   },
   {
     "ident": "ESGG",
@@ -485,7 +485,7 @@
     "name": "Gothenburg-Landvetter Airport",
     "iso_country": "SE",
     "municipality": "Gothenburg",
-    "coordinates": "57.662799835205, 12.279800415039"
+    "coordinates": "57.662799835205,12.279800415039"
   },
   {
     "ident": "ESSA",
@@ -493,7 +493,7 @@
     "name": "Stockholm-Arlanda Airport",
     "iso_country": "SE",
     "municipality": "Stockholm",
-    "coordinates": "59.651901245117, 17.918600082397"
+    "coordinates": "59.651901245117,17.918600082397"
   },
   {
     "ident": "EVRA",
@@ -501,7 +501,7 @@
     "name": "Riga International Airport",
     "iso_country": "LV",
     "municipality": "Riga",
-    "coordinates": "56.923599, 23.9711"
+    "coordinates": "56.923599,23.9711"
   },
   {
     "ident": "EYVI",
@@ -509,7 +509,7 @@
     "name": "Vilnius International Airport",
     "iso_country": "LT",
     "municipality": "Vilnius",
-    "coordinates": "54.634102, 25.285801"
+    "coordinates": "54.634102,25.285801"
   },
   {
     "ident": "FACT",
@@ -517,7 +517,7 @@
     "name": "Cape Town International Airport",
     "iso_country": "ZA",
     "municipality": "Cape Town",
-    "coordinates": "-33.9648017883, 18.6016998291"
+    "coordinates": "-33.9648017883,18.6016998291"
   },
   {
     "ident": "FALE",
@@ -525,7 +525,7 @@
     "name": "King Shaka International Airport",
     "iso_country": "ZA",
     "municipality": "Durban",
-    "coordinates": "-29.6144444444, 31.1197222222"
+    "coordinates": "-29.6144444444,31.1197222222"
   },
   {
     "ident": "FAOR",
@@ -533,7 +533,7 @@
     "name": "OR Tambo International Airport",
     "iso_country": "ZA",
     "municipality": "Johannesburg",
-    "coordinates": "-26.1392, 28.246"
+    "coordinates": "-26.1392,28.246"
   },
   {
     "ident": "FBSK",
@@ -541,7 +541,7 @@
     "name": "Sir Seretse Khama International Airport",
     "iso_country": "BW",
     "municipality": "Gaborone",
-    "coordinates": "-24.555201, 25.9182"
+    "coordinates": "-24.555201,25.9182"
   },
   {
     "ident": "FDSK",
@@ -549,7 +549,7 @@
     "name": "King Mswati III International Airport",
     "iso_country": "SZ",
     "municipality": "Mpaka",
-    "coordinates": "-26.358611, 31.716944"
+    "coordinates": "-26.358611,31.716944"
   },
   {
     "ident": "FIMP",
@@ -557,7 +557,7 @@
     "name": "Sir Seewoosagur Ramgoolam International Airport",
     "iso_country": "MU",
     "municipality": "Plaine Magnien",
-    "coordinates": "-20.430201, 57.683601"
+    "coordinates": "-20.430201,57.683601"
   },
   {
     "ident": "FLLS",
@@ -565,7 +565,7 @@
     "name": "Kenneth Kaunda International Airport",
     "iso_country": "ZM",
     "municipality": "Lusaka",
-    "coordinates": "-15.330833, 28.452722"
+    "coordinates": "-15.330833,28.452722"
   },
   {
     "ident": "FMEE",
@@ -573,7 +573,7 @@
     "name": "Roland Garros Airport",
     "iso_country": "RE",
     "municipality": "Sainte-Marie",
-    "coordinates": "-20.890087, 55.518894"
+    "coordinates": "-20.890087,55.518894"
   },
   {
     "ident": "FMMI",
@@ -581,7 +581,7 @@
     "name": "Ivato Airport",
     "iso_country": "MG",
     "municipality": "Antananarivo",
-    "coordinates": "-18.7969, 47.478802"
+    "coordinates": "-18.7969,47.478802"
   },
   {
     "ident": "FNLU",
@@ -589,7 +589,7 @@
     "name": "Quatro de Fevereiro International Airport",
     "iso_country": "AO",
     "municipality": "Luanda",
-    "coordinates": "-8.85837, 13.2312"
+    "coordinates": "-8.85837,13.2312"
   },
   {
     "ident": "FQMA",
@@ -597,7 +597,7 @@
     "name": "Maputo Airport",
     "iso_country": "MZ",
     "municipality": "Maputo",
-    "coordinates": "-25.920799, 32.572601"
+    "coordinates": "-25.920799,32.572601"
   },
   {
     "ident": "FSIA",
@@ -605,7 +605,7 @@
     "name": "Seychelles International Airport",
     "iso_country": "SC",
     "municipality": "Mahe Island",
-    "coordinates": "-4.67434, 55.521801"
+    "coordinates": "-4.67434,55.521801"
   },
   {
     "ident": "FTTJ",
@@ -613,7 +613,7 @@
     "name": "N'Djamena International Airport",
     "iso_country": "TD",
     "municipality": "N'Djamena",
-    "coordinates": "12.1337, 15.034"
+    "coordinates": "12.1337,15.034"
   },
   {
     "ident": "FVHA",
@@ -621,7 +621,7 @@
     "name": "Robert Gabriel Mugabe International Airport",
     "iso_country": "ZW",
     "municipality": "Harare",
-    "coordinates": "-17.931801, 31.0928"
+    "coordinates": "-17.931801,31.0928"
   },
   {
     "ident": "FYWH",
@@ -629,7 +629,7 @@
     "name": "Hosea Kutako International Airport",
     "iso_country": "NA",
     "municipality": "Windhoek",
-    "coordinates": "-22.4799, 17.4709"
+    "coordinates": "-22.4799,17.4709"
   },
   {
     "ident": "FZAA",
@@ -637,7 +637,7 @@
     "name": "Ndjili International Airport",
     "iso_country": "CD",
     "municipality": "Kinshasa",
-    "coordinates": "-4.38575, 15.4446"
+    "coordinates": "-4.38575,15.4446"
   },
   {
     "ident": "GABS",
@@ -645,7 +645,7 @@
     "name": "Modibo Keita International Airport",
     "iso_country": "ML",
     "municipality": "Bamako",
-    "coordinates": "12.5335, -7.94994"
+    "coordinates": "12.5335,-7.94994"
   },
   {
     "ident": "GBYD",
@@ -653,7 +653,7 @@
     "name": "Banjul International Airport",
     "iso_country": "GM",
     "municipality": "Banjul",
-    "coordinates": "13.338, -16.652201"
+    "coordinates": "13.338,-16.652201"
   },
   {
     "ident": "GCFV",
@@ -661,7 +661,7 @@
     "name": "Fuerteventura Airport",
     "iso_country": "ES",
     "municipality": "El Matorral",
-    "coordinates": "28.4527, -13.8638"
+    "coordinates": "28.4527,-13.8638"
   },
   {
     "ident": "GCLP",
@@ -669,7 +669,7 @@
     "name": "Gran Canaria Airport",
     "iso_country": "ES",
     "municipality": "Gran Canaria Island",
-    "coordinates": "27.9319, -15.3866"
+    "coordinates": "27.9319,-15.3866"
   },
   {
     "ident": "GCRR",
@@ -677,7 +677,7 @@
     "name": "César Manrique-Lanzarote Airport",
     "iso_country": "ES",
     "municipality": "San Bartolomé",
-    "coordinates": "28.945499, -13.6052"
+    "coordinates": "28.945499,-13.6052"
   },
   {
     "ident": "GCTS",
@@ -685,7 +685,7 @@
     "name": "Tenerife Sur Airport",
     "iso_country": "ES",
     "municipality": "Tenerife",
-    "coordinates": "28.0445, -16.5725"
+    "coordinates": "28.0445,-16.5725"
   },
   {
     "ident": "GFLL",
@@ -693,7 +693,7 @@
     "name": "Lungi International Airport",
     "iso_country": "SL",
     "municipality": "Freetown (Lungi-Town)",
-    "coordinates": "8.61644, -13.1955"
+    "coordinates": "8.61644,-13.1955"
   },
   {
     "ident": "GLRB",
@@ -701,7 +701,7 @@
     "name": "Roberts International Airport",
     "iso_country": "LR",
     "municipality": "Monrovia",
-    "coordinates": "6.23379, -10.3623"
+    "coordinates": "6.23379,-10.3623"
   },
   {
     "ident": "GMMN",
@@ -709,7 +709,7 @@
     "name": "Mohammed V International Airport",
     "iso_country": "MA",
     "municipality": "Casablanca",
-    "coordinates": "33.36750030517578, -7.589970111846924"
+    "coordinates": "33.36750030517578,-7.589970111846924"
   },
   {
     "ident": "GOBD",
@@ -717,7 +717,7 @@
     "name": "Blaise Diagne International Airport",
     "iso_country": "SN",
     "municipality": "Dakar",
-    "coordinates": "14.67, -17.073333"
+    "coordinates": "14.67,-17.073333"
   },
   {
     "ident": "GQNO",
@@ -725,7 +725,7 @@
     "name": "Nouakchott–Oumtounsy International Airport",
     "iso_country": "MR",
     "municipality": "Nouakchott",
-    "coordinates": "18.31, -15.9697222"
+    "coordinates": "18.31,-15.9697222"
   },
   {
     "ident": "GVAC",
@@ -733,7 +733,7 @@
     "name": "Amílcar Cabral International Airport",
     "iso_country": "CV",
     "municipality": "Espargos",
-    "coordinates": "16.7414, -22.9494"
+    "coordinates": "16.7414,-22.9494"
   },
   {
     "ident": "HAAB",
@@ -741,7 +741,7 @@
     "name": "Addis Ababa Bole International Airport",
     "iso_country": "ET",
     "municipality": "Addis Ababa",
-    "coordinates": "8.97789, 38.799301"
+    "coordinates": "8.97789,38.799301"
   },
   {
     "ident": "HDAM",
@@ -749,7 +749,7 @@
     "name": "Djibouti-Ambouli Airport",
     "iso_country": "DJ",
     "municipality": "Djibouti City",
-    "coordinates": "11.5473, 43.1595"
+    "coordinates": "11.5473,43.1595"
   },
   {
     "ident": "HECA",
@@ -757,7 +757,7 @@
     "name": "Cairo International Airport",
     "iso_country": "EG",
     "municipality": "Cairo",
-    "coordinates": "30.111534, 31.396694"
+    "coordinates": "30.111534,31.396694"
   },
   {
     "ident": "HEGN",
@@ -765,7 +765,7 @@
     "name": "Hurghada International Airport",
     "iso_country": "EG",
     "municipality": "Hurghada",
-    "coordinates": "27.176776, 33.796692"
+    "coordinates": "27.176776,33.796692"
   },
   {
     "ident": "HESH",
@@ -773,7 +773,7 @@
     "name": "Sharm El Sheikh International Airport",
     "iso_country": "EG",
     "municipality": "Sharm El Sheikh",
-    "coordinates": "27.977272, 34.394717"
+    "coordinates": "27.977272,34.394717"
   },
   {
     "ident": "HJJJ",
@@ -781,7 +781,7 @@
     "name": "Juba International Airport",
     "iso_country": "SS",
     "municipality": "Juba",
-    "coordinates": "4.87201, 31.601101"
+    "coordinates": "4.87201,31.601101"
   },
   {
     "ident": "HKJK",
@@ -789,7 +789,7 @@
     "name": "Jomo Kenyatta International Airport",
     "iso_country": "KE",
     "municipality": "Nairobi",
-    "coordinates": "-1.31923997402, 36.9277992249"
+    "coordinates": "-1.31923997402,36.9277992249"
   },
   {
     "ident": "HKMO",
@@ -797,7 +797,7 @@
     "name": "Moi International Airport",
     "iso_country": "KE",
     "municipality": "Mombasa",
-    "coordinates": "-4.03483, 39.5942"
+    "coordinates": "-4.03483,39.5942"
   },
   {
     "ident": "HLLM",
@@ -805,7 +805,7 @@
     "name": "Mitiga International Airport",
     "iso_country": "LY",
     "municipality": "Tripoli",
-    "coordinates": "32.89177, 13.287878"
+    "coordinates": "32.89177,13.287878"
   },
   {
     "ident": "HRYR",
@@ -813,7 +813,7 @@
     "name": "Kigali International Airport",
     "iso_country": "RW",
     "municipality": "Kigali",
-    "coordinates": "-1.96863, 30.1395"
+    "coordinates": "-1.96863,30.1395"
   },
   {
     "ident": "HSSK",
@@ -821,7 +821,7 @@
     "name": "Khartoum International Airport",
     "iso_country": "SD",
     "municipality": "Khartoum",
-    "coordinates": "15.5895, 32.5532"
+    "coordinates": "15.5895,32.5532"
   },
   {
     "ident": "HTDA",
@@ -829,7 +829,7 @@
     "name": "Julius Nyerere International Airport",
     "iso_country": "TZ",
     "municipality": "Dar es Salaam",
-    "coordinates": "-6.87811, 39.202599"
+    "coordinates": "-6.87811,39.202599"
   },
   {
     "ident": "HTZA",
@@ -837,7 +837,7 @@
     "name": "Abeid Amani Karume International Airport",
     "iso_country": "TZ",
     "municipality": "Zanzibar",
-    "coordinates": "-6.22202, 39.224899"
+    "coordinates": "-6.22202,39.224899"
   },
   {
     "ident": "HUEN",
@@ -845,7 +845,7 @@
     "name": "Entebbe International Airport",
     "iso_country": "UG",
     "municipality": "Kampala",
-    "coordinates": "0.042386, 32.443501"
+    "coordinates": "0.042386,32.443501"
   },
   {
     "ident": "KADW",
@@ -853,7 +853,7 @@
     "name": "Joint Base Andrews",
     "iso_country": "US",
     "municipality": "Camp Springs",
-    "coordinates": "38.810799, -76.866997"
+    "coordinates": "38.810799,-76.866997"
   },
   {
     "ident": "KATL",
@@ -861,7 +861,7 @@
     "name": "Hartsfield Jackson Atlanta International Airport",
     "iso_country": "US",
     "municipality": "Atlanta",
-    "coordinates": "33.6367, -84.428101"
+    "coordinates": "33.6367,-84.428101"
   },
   {
     "ident": "KAUS",
@@ -869,7 +869,7 @@
     "name": "Austin Bergstrom International Airport",
     "iso_country": "US",
     "municipality": "Austin",
-    "coordinates": "30.197535, -97.662015"
+    "coordinates": "30.197535,-97.662015"
   },
   {
     "ident": "KBNA",
@@ -877,7 +877,7 @@
     "name": "Nashville International Airport",
     "iso_country": "US",
     "municipality": "Nashville",
-    "coordinates": "36.1245002746582, -86.6781997680664"
+    "coordinates": "36.1245002746582,-86.6781997680664"
   },
   {
     "ident": "KBOS",
@@ -885,7 +885,7 @@
     "name": "Logan International Airport",
     "iso_country": "US",
     "municipality": "Boston",
-    "coordinates": "42.3643, -71.005203"
+    "coordinates": "42.3643,-71.005203"
   },
   {
     "ident": "KBUF",
@@ -893,7 +893,7 @@
     "name": "Buffalo Niagara International Airport",
     "iso_country": "US",
     "municipality": "Buffalo",
-    "coordinates": "42.94049835, -78.73220062"
+    "coordinates": "42.94049835,-78.73220062"
   },
   {
     "ident": "KBWI",
@@ -901,7 +901,7 @@
     "name": "Baltimore/Washington International Thurgood Marshall Airport",
     "iso_country": "US",
     "municipality": "Baltimore",
-    "coordinates": "39.1754, -76.668297"
+    "coordinates": "39.1754,-76.668297"
   },
   {
     "ident": "KCLE",
@@ -909,7 +909,7 @@
     "name": "Cleveland Hopkins International Airport",
     "iso_country": "US",
     "municipality": "Cleveland",
-    "coordinates": "41.4117012024, -81.8498001099"
+    "coordinates": "41.4117012024,-81.8498001099"
   },
   {
     "ident": "KCLT",
@@ -917,7 +917,7 @@
     "name": "Charlotte Douglas International Airport",
     "iso_country": "US",
     "municipality": "Charlotte",
-    "coordinates": "35.2140007019043, -80.94309997558594"
+    "coordinates": "35.2140007019043,-80.94309997558594"
   },
   {
     "ident": "KCMA",
@@ -925,7 +925,7 @@
     "name": "Camarillo International Airport",
     "iso_country": "US",
     "municipality": "Camarillo",
-    "coordinates": "34.213699, -119.094002"
+    "coordinates": "34.213699,-119.094002"
   },
   {
     "ident": "KCMH",
@@ -933,7 +933,7 @@
     "name": "John Glenn Columbus International Airport",
     "iso_country": "US",
     "municipality": "Columbus",
-    "coordinates": "39.998001, -82.891899"
+    "coordinates": "39.998001,-82.891899"
   },
   {
     "ident": "KCVG",
@@ -941,7 +941,7 @@
     "name": "Cincinnati Northern Kentucky International Airport",
     "iso_country": "US",
     "municipality": "Cincinnati / Covington",
-    "coordinates": "39.048801, -84.667801"
+    "coordinates": "39.048801,-84.667801"
   },
   {
     "ident": "KDCA",
@@ -949,7 +949,7 @@
     "name": "Ronald Reagan Washington National Airport",
     "iso_country": "US",
     "municipality": "Washington",
-    "coordinates": "38.8521, -77.037697"
+    "coordinates": "38.8521,-77.037697"
   },
   {
     "ident": "KDEN",
@@ -957,7 +957,7 @@
     "name": "Denver International Airport",
     "iso_country": "US",
     "municipality": "Denver",
-    "coordinates": "39.861698150635, -104.672996521"
+    "coordinates": "39.861698150635,-104.672996521"
   },
   {
     "ident": "KDFW",
@@ -965,7 +965,7 @@
     "name": "Dallas Fort Worth International Airport",
     "iso_country": "US",
     "municipality": "Dallas-Fort Worth",
-    "coordinates": "32.896801, -97.038002"
+    "coordinates": "32.896801,-97.038002"
   },
   {
     "ident": "KDTW",
@@ -973,7 +973,7 @@
     "name": "Detroit Metropolitan Wayne County Airport",
     "iso_country": "US",
     "municipality": "Detroit",
-    "coordinates": "42.212398529052734, -83.35340118408203"
+    "coordinates": "42.212398529052734,-83.35340118408203"
   },
   {
     "ident": "KEWR",
@@ -981,7 +981,7 @@
     "name": "Newark Liberty International Airport",
     "iso_country": "US",
     "municipality": "Newark",
-    "coordinates": "40.692501, -74.168701"
+    "coordinates": "40.692501,-74.168701"
   },
   {
     "ident": "KFLL",
@@ -989,7 +989,7 @@
     "name": "Fort Lauderdale Hollywood International Airport",
     "iso_country": "US",
     "municipality": "Fort Lauderdale",
-    "coordinates": "26.072599, -80.152702"
+    "coordinates": "26.072599,-80.152702"
   },
   {
     "ident": "KIAD",
@@ -997,7 +997,7 @@
     "name": "Washington Dulles International Airport",
     "iso_country": "US",
     "municipality": "Dulles",
-    "coordinates": "38.9445, -77.455803"
+    "coordinates": "38.9445,-77.455803"
   },
   {
     "ident": "KIAH",
@@ -1005,7 +1005,7 @@
     "name": "George Bush Intercontinental Houston Airport",
     "iso_country": "US",
     "municipality": "Houston",
-    "coordinates": "29.984399795532227, -95.34140014648438"
+    "coordinates": "29.984399795532227,-95.34140014648438"
   },
   {
     "ident": "KIND",
@@ -1013,7 +1013,7 @@
     "name": "Indianapolis International Airport",
     "iso_country": "US",
     "municipality": "Indianapolis",
-    "coordinates": "39.7173, -86.294403"
+    "coordinates": "39.7173,-86.294403"
   },
   {
     "ident": "KJAX",
@@ -1021,7 +1021,7 @@
     "name": "Jacksonville International Airport",
     "iso_country": "US",
     "municipality": "Jacksonville",
-    "coordinates": "30.49410057067871, -81.68789672851562"
+    "coordinates": "30.49410057067871,-81.68789672851562"
   },
   {
     "ident": "KJFK",
@@ -1029,7 +1029,7 @@
     "name": "John F Kennedy International Airport",
     "iso_country": "US",
     "municipality": "New York",
-    "coordinates": "40.639447, -73.779317"
+    "coordinates": "40.639447,-73.779317"
   },
   {
     "ident": "KLAS",
@@ -1037,7 +1037,7 @@
     "name": "Harry Reid International Airport",
     "iso_country": "US",
     "municipality": "Las Vegas",
-    "coordinates": "36.083361, -115.151817"
+    "coordinates": "36.083361,-115.151817"
   },
   {
     "ident": "KLAX",
@@ -1045,7 +1045,7 @@
     "name": "Los Angeles / Tom Bradley International Airport",
     "iso_country": "US",
     "municipality": "Los Angeles",
-    "coordinates": "33.942501, -118.407997"
+    "coordinates": "33.942501,-118.407997"
   },
   {
     "ident": "KLGA",
@@ -1053,7 +1053,7 @@
     "name": "La Guardia Airport",
     "iso_country": "US",
     "municipality": "New York",
-    "coordinates": "40.777199, -73.872597"
+    "coordinates": "40.777199,-73.872597"
   },
   {
     "ident": "KMCI",
@@ -1061,7 +1061,7 @@
     "name": "Kansas City International Airport",
     "iso_country": "US",
     "municipality": "Kansas City",
-    "coordinates": "39.2976, -94.713898"
+    "coordinates": "39.2976,-94.713898"
   },
   {
     "ident": "KMCO",
@@ -1069,7 +1069,7 @@
     "name": "Orlando International Airport",
     "iso_country": "US",
     "municipality": "Orlando",
-    "coordinates": "28.429399490356445, -81.30899810791016"
+    "coordinates": "28.429399490356445,-81.30899810791016"
   },
   {
     "ident": "KMDW",
@@ -1077,7 +1077,7 @@
     "name": "Chicago Midway International Airport",
     "iso_country": "US",
     "municipality": "Chicago",
-    "coordinates": "41.785999, -87.752403"
+    "coordinates": "41.785999,-87.752403"
   },
   {
     "ident": "KMEM",
@@ -1085,7 +1085,7 @@
     "name": "Memphis International Airport",
     "iso_country": "US",
     "municipality": "Memphis",
-    "coordinates": "35.04240036010742, -89.97669982910156"
+    "coordinates": "35.04240036010742,-89.97669982910156"
   },
   {
     "ident": "KMIA",
@@ -1093,7 +1093,7 @@
     "name": "Miami International Airport",
     "iso_country": "US",
     "municipality": "Miami",
-    "coordinates": "25.79319953918457, -80.29060363769531"
+    "coordinates": "25.79319953918457,-80.29060363769531"
   },
   {
     "ident": "KMKE",
@@ -1101,7 +1101,7 @@
     "name": "General Mitchell International Airport",
     "iso_country": "US",
     "municipality": "Milwaukee",
-    "coordinates": "42.947200775146484, -87.89659881591797"
+    "coordinates": "42.947200775146484,-87.89659881591797"
   },
   {
     "ident": "KMSP",
@@ -1109,7 +1109,7 @@
     "name": "Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field",
     "iso_country": "US",
     "municipality": "Minneapolis",
-    "coordinates": "44.882, -93.221802"
+    "coordinates": "44.882,-93.221802"
   },
   {
     "ident": "KMSY",
@@ -1117,7 +1117,7 @@
     "name": "Louis Armstrong New Orleans International Airport",
     "iso_country": "US",
     "municipality": "New Orleans",
-    "coordinates": "29.99340057373047, -90.25800323486328"
+    "coordinates": "29.99340057373047,-90.25800323486328"
   },
   {
     "ident": "KOAK",
@@ -1125,7 +1125,7 @@
     "name": "Metropolitan Oakland International Airport",
     "iso_country": "US",
     "municipality": "Oakland",
-    "coordinates": "37.721298, -122.221001"
+    "coordinates": "37.721298,-122.221001"
   },
   {
     "ident": "KOMA",
@@ -1133,7 +1133,7 @@
     "name": "Eppley Airfield",
     "iso_country": "US",
     "municipality": "Omaha",
-    "coordinates": "41.3032, -95.894096"
+    "coordinates": "41.3032,-95.894096"
   },
   {
     "ident": "KONT",
@@ -1141,7 +1141,7 @@
     "name": "Ontario International Airport",
     "iso_country": "US",
     "municipality": "Ontario",
-    "coordinates": "34.055999755859375, -117.60099792480469"
+    "coordinates": "34.055999755859375,-117.60099792480469"
   },
   {
     "ident": "KORD",
@@ -1149,7 +1149,7 @@
     "name": "Chicago O'Hare International Airport",
     "iso_country": "US",
     "municipality": "Chicago",
-    "coordinates": "41.9786, -87.9048"
+    "coordinates": "41.9786,-87.9048"
   },
   {
     "ident": "KPBI",
@@ -1157,7 +1157,7 @@
     "name": "Palm Beach International Airport",
     "iso_country": "US",
     "municipality": "West Palm Beach",
-    "coordinates": "26.68320083618164, -80.09559631347656"
+    "coordinates": "26.68320083618164,-80.09559631347656"
   },
   {
     "ident": "KPDX",
@@ -1165,7 +1165,7 @@
     "name": "Portland International Airport",
     "iso_country": "US",
     "municipality": "Portland",
-    "coordinates": "45.58869934, -122.5979996"
+    "coordinates": "45.58869934,-122.5979996"
   },
   {
     "ident": "KPHL",
@@ -1173,7 +1173,7 @@
     "name": "Philadelphia International Airport",
     "iso_country": "US",
     "municipality": "Philadelphia",
-    "coordinates": "39.87189865112305, -75.24109649658203"
+    "coordinates": "39.87189865112305,-75.24109649658203"
   },
   {
     "ident": "KPHX",
@@ -1181,7 +1181,7 @@
     "name": "Phoenix Sky Harbor International Airport",
     "iso_country": "US",
     "municipality": "Phoenix",
-    "coordinates": "33.435302, -112.005905"
+    "coordinates": "33.435302,-112.005905"
   },
   {
     "ident": "KPIT",
@@ -1189,7 +1189,7 @@
     "name": "Pittsburgh International Airport",
     "iso_country": "US",
     "municipality": "Pittsburgh",
-    "coordinates": "40.49150085, -80.23290253"
+    "coordinates": "40.49150085,-80.23290253"
   },
   {
     "ident": "KPVD",
@@ -1197,7 +1197,7 @@
     "name": "Theodore Francis Green State Airport",
     "iso_country": "US",
     "municipality": "Warwick",
-    "coordinates": "41.725038, -71.425668"
+    "coordinates": "41.725038,-71.425668"
   },
   {
     "ident": "KPWM",
@@ -1205,7 +1205,7 @@
     "name": "Portland International Jetport",
     "iso_country": "US",
     "municipality": "Portland",
-    "coordinates": "43.646198, -70.309303"
+    "coordinates": "43.646198,-70.309303"
   },
   {
     "ident": "KRDU",
@@ -1213,7 +1213,7 @@
     "name": "Raleigh Durham International Airport",
     "iso_country": "US",
     "municipality": "Raleigh/Durham",
-    "coordinates": "35.877602, -78.787498"
+    "coordinates": "35.877602,-78.787498"
   },
   {
     "ident": "KRIC",
@@ -1221,7 +1221,7 @@
     "name": "Richmond International Airport",
     "iso_country": "US",
     "municipality": "Richmond",
-    "coordinates": "37.50519943237305, -77.3197021484375"
+    "coordinates": "37.50519943237305,-77.3197021484375"
   },
   {
     "ident": "KRNO",
@@ -1229,7 +1229,7 @@
     "name": "Reno Tahoe International Airport",
     "iso_country": "US",
     "municipality": "Reno",
-    "coordinates": "39.49909973144531, -119.76799774169922"
+    "coordinates": "39.49909973144531,-119.76799774169922"
   },
   {
     "ident": "KRSW",
@@ -1237,7 +1237,7 @@
     "name": "Southwest Florida International Airport",
     "iso_country": "US",
     "municipality": "Fort Myers",
-    "coordinates": "26.53619956970215, -81.75520324707031"
+    "coordinates": "26.53619956970215,-81.75520324707031"
   },
   {
     "ident": "KSAN",
@@ -1245,7 +1245,7 @@
     "name": "San Diego International Airport",
     "iso_country": "US",
     "municipality": "San Diego",
-    "coordinates": "32.7336006165, -117.190002441"
+    "coordinates": "32.7336006165,-117.190002441"
   },
   {
     "ident": "KSAT",
@@ -1253,7 +1253,7 @@
     "name": "San Antonio International Airport",
     "iso_country": "US",
     "municipality": "San Antonio",
-    "coordinates": "29.533701, -98.469803"
+    "coordinates": "29.533701,-98.469803"
   },
   {
     "ident": "KSAV",
@@ -1261,7 +1261,7 @@
     "name": "Savannah Hilton Head International Airport",
     "iso_country": "US",
     "municipality": "Savannah",
-    "coordinates": "32.12760162, -81.20210266"
+    "coordinates": "32.12760162,-81.20210266"
   },
   {
     "ident": "KSDF",
@@ -1269,7 +1269,7 @@
     "name": "Louisville Muhammad Ali International Airport",
     "iso_country": "US",
     "municipality": "Louisville",
-    "coordinates": "38.1744, -85.736"
+    "coordinates": "38.1744,-85.736"
   },
   {
     "ident": "KSEA",
@@ -1277,7 +1277,7 @@
     "name": "Seattle-Tacoma International Airport",
     "iso_country": "US",
     "municipality": "Seattle",
-    "coordinates": "47.449162, -122.311134"
+    "coordinates": "47.449162,-122.311134"
   },
   {
     "ident": "KSFB",
@@ -1285,7 +1285,7 @@
     "name": "Orlando Sanford International Airport",
     "iso_country": "US",
     "municipality": "Orlando",
-    "coordinates": "28.777599334716797, -81.23750305175781"
+    "coordinates": "28.777599334716797,-81.23750305175781"
   },
   {
     "ident": "KSFO",
@@ -1293,7 +1293,7 @@
     "name": "San Francisco International Airport",
     "iso_country": "US",
     "municipality": "San Francisco",
-    "coordinates": "37.61899948120117, -122.375"
+    "coordinates": "37.61899948120117,-122.375"
   },
   {
     "ident": "KSJC",
@@ -1301,7 +1301,7 @@
     "name": "Norman Y. Mineta San Jose International Airport",
     "iso_country": "US",
     "municipality": "San Jose",
-    "coordinates": "37.362452, -121.929188"
+    "coordinates": "37.362452,-121.929188"
   },
   {
     "ident": "KSLC",
@@ -1309,7 +1309,7 @@
     "name": "Salt Lake City International Airport",
     "iso_country": "US",
     "municipality": "Salt Lake City",
-    "coordinates": "40.785749, -111.979746"
+    "coordinates": "40.785749,-111.979746"
   },
   {
     "ident": "KSMF",
@@ -1317,7 +1317,7 @@
     "name": "Sacramento International Airport",
     "iso_country": "US",
     "municipality": "Sacramento",
-    "coordinates": "38.69540023803711, -121.59100341796875"
+    "coordinates": "38.69540023803711,-121.59100341796875"
   },
   {
     "ident": "KSNA",
@@ -1325,7 +1325,7 @@
     "name": "John Wayne Orange County International Airport",
     "iso_country": "US",
     "municipality": "Santa Ana",
-    "coordinates": "33.675701, -117.867996"
+    "coordinates": "33.675701,-117.867996"
   },
   {
     "ident": "KSTL",
@@ -1333,7 +1333,7 @@
     "name": "St Louis Lambert International Airport",
     "iso_country": "US",
     "municipality": "St Louis",
-    "coordinates": "38.748697, -90.370003"
+    "coordinates": "38.748697,-90.370003"
   },
   {
     "ident": "KSYR",
@@ -1341,7 +1341,7 @@
     "name": "Syracuse Hancock International Airport",
     "iso_country": "US",
     "municipality": "Syracuse",
-    "coordinates": "43.11119842529297, -76.1063003540039"
+    "coordinates": "43.11119842529297,-76.1063003540039"
   },
   {
     "ident": "KTPA",
@@ -1349,7 +1349,7 @@
     "name": "Tampa International Airport",
     "iso_country": "US",
     "municipality": "Tampa",
-    "coordinates": "27.975500106811523, -82.533203125"
+    "coordinates": "27.975500106811523,-82.533203125"
   },
   {
     "ident": "KTUL",
@@ -1357,7 +1357,7 @@
     "name": "Tulsa International Airport",
     "iso_country": "US",
     "municipality": "Tulsa",
-    "coordinates": "36.19839859008789, -95.88809967041016"
+    "coordinates": "36.19839859008789,-95.88809967041016"
   },
   {
     "ident": "LATI",
@@ -1365,7 +1365,7 @@
     "name": "Tirana International Airport Mother Teresa",
     "iso_country": "AL",
     "municipality": "Tirana",
-    "coordinates": "41.4146995544, 19.7206001282"
+    "coordinates": "41.4146995544,19.7206001282"
   },
   {
     "ident": "LBBG",
@@ -1373,7 +1373,7 @@
     "name": "Burgas Airport",
     "iso_country": "BG",
     "municipality": "Burgas",
-    "coordinates": "42.56959915161133, 27.515199661254883"
+    "coordinates": "42.56959915161133,27.515199661254883"
   },
   {
     "ident": "LBSF",
@@ -1381,7 +1381,7 @@
     "name": "Sofia Airport",
     "iso_country": "BG",
     "municipality": "Sofia",
-    "coordinates": "42.696693420410156, 23.411436080932617"
+    "coordinates": "42.696693420410156,23.411436080932617"
   },
   {
     "ident": "LBWN",
@@ -1389,7 +1389,7 @@
     "name": "Varna Airport",
     "iso_country": "BG",
     "municipality": "Varna",
-    "coordinates": "43.232101, 27.8251"
+    "coordinates": "43.232101,27.8251"
   },
   {
     "ident": "LCLK",
@@ -1397,7 +1397,7 @@
     "name": "Larnaca International Airport",
     "iso_country": "CY",
     "municipality": "Larnaca",
-    "coordinates": "34.875099, 33.624901"
+    "coordinates": "34.875099,33.624901"
   },
   {
     "ident": "LDZA",
@@ -1405,7 +1405,7 @@
     "name": "Zagreb Airport",
     "iso_country": "HR",
     "municipality": "Zagreb",
-    "coordinates": "45.7429008484, 16.0687999725"
+    "coordinates": "45.7429008484,16.0687999725"
   },
   {
     "ident": "LEAL",
@@ -1413,7 +1413,7 @@
     "name": "Alicante-Elche Miguel Hernández Airport",
     "iso_country": "ES",
     "municipality": "Alicante",
-    "coordinates": "38.2822, -0.558156"
+    "coordinates": "38.2822,-0.558156"
   },
   {
     "ident": "LEBL",
@@ -1421,7 +1421,7 @@
     "name": "Josep Tarradellas Barcelona-El Prat Airport",
     "iso_country": "ES",
     "municipality": "Barcelona",
-    "coordinates": "41.2971, 2.07846"
+    "coordinates": "41.2971,2.07846"
   },
   {
     "ident": "LEIB",
@@ -1429,7 +1429,7 @@
     "name": "Ibiza Airport",
     "iso_country": "ES",
     "municipality": "Ibiza (Eivissa)",
-    "coordinates": "38.872898, 1.37312"
+    "coordinates": "38.872898,1.37312"
   },
   {
     "ident": "LEMD",
@@ -1437,7 +1437,7 @@
     "name": "Adolfo Suárez Madrid-Barajas Airport",
     "iso_country": "ES",
     "municipality": "Madrid",
-    "coordinates": "40.471926, -3.56264"
+    "coordinates": "40.471926,-3.56264"
   },
   {
     "ident": "LEMG",
@@ -1445,7 +1445,7 @@
     "name": "Málaga-Costa del Sol Airport",
     "iso_country": "ES",
     "municipality": "Málaga",
-    "coordinates": "36.6749, -4.49911"
+    "coordinates": "36.6749,-4.49911"
   },
   {
     "ident": "LEPA",
@@ -1453,7 +1453,7 @@
     "name": "Palma de Mallorca Airport",
     "iso_country": "ES",
     "municipality": "Palma de Mallorca",
-    "coordinates": "39.551701, 2.73881"
+    "coordinates": "39.551701,2.73881"
   },
   {
     "ident": "LEST",
@@ -1461,7 +1461,7 @@
     "name": "Santiago-Rosalía de Castro Airport",
     "iso_country": "ES",
     "municipality": "Santiago de Compostela",
-    "coordinates": "42.896301, -8.41514"
+    "coordinates": "42.896301,-8.41514"
   },
   {
     "ident": "LFBD",
@@ -1469,7 +1469,7 @@
     "name": "Bordeaux-Mérignac Airport",
     "iso_country": "FR",
     "municipality": "Bordeaux/Mérignac",
-    "coordinates": "44.8283, -0.715556"
+    "coordinates": "44.8283,-0.715556"
   },
   {
     "ident": "LFBO",
@@ -1477,7 +1477,7 @@
     "name": "Toulouse-Blagnac Airport",
     "iso_country": "FR",
     "municipality": "Toulouse/Blagnac",
-    "coordinates": "43.629101, 1.36382"
+    "coordinates": "43.629101,1.36382"
   },
   {
     "ident": "LFLL",
@@ -1485,7 +1485,7 @@
     "name": "Lyon Saint-Exupéry Airport",
     "iso_country": "FR",
     "municipality": "Lyon",
-    "coordinates": "45.725556, 5.081111"
+    "coordinates": "45.725556,5.081111"
   },
   {
     "ident": "LFML",
@@ -1493,7 +1493,7 @@
     "name": "Marseille Provence Airport",
     "iso_country": "FR",
     "municipality": "Marseille",
-    "coordinates": "43.439271922, 5.22142410278"
+    "coordinates": "43.439271922,5.22142410278"
   },
   {
     "ident": "LFMN",
@@ -1501,7 +1501,7 @@
     "name": "Nice-Côte d'Azur Airport",
     "iso_country": "FR",
     "municipality": "Nice",
-    "coordinates": "43.658401, 7.21587"
+    "coordinates": "43.658401,7.21587"
   },
   {
     "ident": "LFPG",
@@ -1509,7 +1509,7 @@
     "name": "Charles de Gaulle International Airport",
     "iso_country": "FR",
     "municipality": "Paris",
-    "coordinates": "49.012798, 2.55"
+    "coordinates": "49.012798,2.55"
   },
   {
     "ident": "LFPO",
@@ -1517,7 +1517,7 @@
     "name": "Paris-Orly Airport",
     "iso_country": "FR",
     "municipality": "Paris",
-    "coordinates": "48.72333, 2.37944"
+    "coordinates": "48.72333,2.37944"
   },
   {
     "ident": "LFSB",
@@ -1525,7 +1525,7 @@
     "name": "EuroAirport Basel-Mulhouse-Freiburg Airport",
     "iso_country": "FR",
     "municipality": "BÃ¢le/Mulhouse",
-    "coordinates": "47.59, 7.529167"
+    "coordinates": "47.59,7.529167"
   },
   {
     "ident": "LGAV",
@@ -1533,7 +1533,7 @@
     "name": "Athens Eleftherios Venizelos International Airport",
     "iso_country": "GR",
     "municipality": "Athens",
-    "coordinates": "37.936401, 23.9445"
+    "coordinates": "37.936401,23.9445"
   },
   {
     "ident": "LGIR",
@@ -1541,7 +1541,7 @@
     "name": "Heraklion International Nikos Kazantzakis Airport",
     "iso_country": "GR",
     "municipality": "Heraklion",
-    "coordinates": "35.3396987915, 25.180299758900002"
+    "coordinates": "35.3396987915,25.180299758900002"
   },
   {
     "ident": "LGTS",
@@ -1549,7 +1549,7 @@
     "name": "Thessaloniki Macedonia International Airport",
     "iso_country": "GR",
     "municipality": "Thessaloniki",
-    "coordinates": "40.51969909667969, 22.97089958190918"
+    "coordinates": "40.51969909667969,22.97089958190918"
   },
   {
     "ident": "LHBP",
@@ -1557,7 +1557,7 @@
     "name": "Budapest Liszt Ferenc International Airport",
     "iso_country": "HU",
     "municipality": "Budapest",
-    "coordinates": "47.42976, 19.261093"
+    "coordinates": "47.42976,19.261093"
   },
   {
     "ident": "LIBD",
@@ -1565,7 +1565,7 @@
     "name": "Bari Karol Wojtyła Airport",
     "iso_country": "IT",
     "municipality": "Bari",
-    "coordinates": "41.138901, 16.760599"
+    "coordinates": "41.138901,16.760599"
   },
   {
     "ident": "LIBR",
@@ -1573,7 +1573,7 @@
     "name": "Brindisi Airport",
     "iso_country": "IT",
     "municipality": "Brindisi",
-    "coordinates": "40.6576, 17.947001"
+    "coordinates": "40.6576,17.947001"
   },
   {
     "ident": "LICC",
@@ -1581,7 +1581,7 @@
     "name": "Catania-Fontanarossa Airport",
     "iso_country": "IT",
     "municipality": "Catania",
-    "coordinates": "37.466801, 15.0664"
+    "coordinates": "37.466801,15.0664"
   },
   {
     "ident": "LICJ",
@@ -1589,7 +1589,7 @@
     "name": "Falcone-Borsellino Airport",
     "iso_country": "IT",
     "municipality": "Palermo",
-    "coordinates": "38.175999, 13.091"
+    "coordinates": "38.175999,13.091"
   },
   {
     "ident": "LIEE",
@@ -1597,7 +1597,7 @@
     "name": "Cagliari Elmas Airport",
     "iso_country": "IT",
     "municipality": "Cagliari",
-    "coordinates": "39.251499, 9.05428"
+    "coordinates": "39.251499,9.05428"
   },
   {
     "ident": "LIMC",
@@ -1605,7 +1605,7 @@
     "name": "Malpensa International Airport",
     "iso_country": "IT",
     "municipality": "Milan",
-    "coordinates": "45.6306, 8.72811"
+    "coordinates": "45.6306,8.72811"
   },
   {
     "ident": "LIME",
@@ -1613,7 +1613,7 @@
     "name": "Milan Bergamo Airport",
     "iso_country": "IT",
     "municipality": "Milan",
-    "coordinates": "45.673901, 9.70417"
+    "coordinates": "45.673901,9.70417"
   },
   {
     "ident": "LIMF",
@@ -1621,7 +1621,7 @@
     "name": "Turin Airport",
     "iso_country": "IT",
     "municipality": "Torino",
-    "coordinates": "45.200802, 7.64963"
+    "coordinates": "45.200802,7.64963"
   },
   {
     "ident": "LIPE",
@@ -1629,7 +1629,7 @@
     "name": "Bologna Guglielmo Marconi Airport",
     "iso_country": "IT",
     "municipality": "Bologna",
-    "coordinates": "44.5354, 11.2887"
+    "coordinates": "44.5354,11.2887"
   },
   {
     "ident": "LIPX",
@@ -1637,7 +1637,7 @@
     "name": "Verona-Villafranca Valerio Catullo Airport",
     "iso_country": "IT",
     "municipality": "Villafranca di Verona",
-    "coordinates": "45.394955, 10.887303"
+    "coordinates": "45.394955,10.887303"
   },
   {
     "ident": "LIPZ",
@@ -1645,7 +1645,7 @@
     "name": "Venice Marco Polo Airport",
     "iso_country": "IT",
     "municipality": "Venice",
-    "coordinates": "45.505299, 12.3519"
+    "coordinates": "45.505299,12.3519"
   },
   {
     "ident": "LIRF",
@@ -1653,7 +1653,7 @@
     "name": "Rome-Fiumicino Leonardo da Vinci International Airport",
     "iso_country": "IT",
     "municipality": "Rome",
-    "coordinates": "41.804532, 12.251998"
+    "coordinates": "41.804532,12.251998"
   },
   {
     "ident": "LIRN",
@@ -1661,7 +1661,7 @@
     "name": "Naples International Airport",
     "iso_country": "IT",
     "municipality": "Napoli",
-    "coordinates": "40.886002, 14.2908"
+    "coordinates": "40.886002,14.2908"
   },
   {
     "ident": "LIRP",
@@ -1669,7 +1669,7 @@
     "name": "Pisa International Airport",
     "iso_country": "IT",
     "municipality": "Pisa",
-    "coordinates": "43.683899, 10.3927"
+    "coordinates": "43.683899,10.3927"
   },
   {
     "ident": "LJLJ",
@@ -1677,7 +1677,7 @@
     "name": "Ljubljana Jože Pučnik Airport",
     "iso_country": "SI",
     "municipality": "Ljubljana",
-    "coordinates": "46.223701, 14.4576"
+    "coordinates": "46.223701,14.4576"
   },
   {
     "ident": "LKPR",
@@ -1685,7 +1685,7 @@
     "name": "Václav Havel Airport Prague",
     "iso_country": "CZ",
     "municipality": "Prague",
-    "coordinates": "50.1008, 14.26"
+    "coordinates": "50.1008,14.26"
   },
   {
     "ident": "LLBG",
@@ -1693,7 +1693,7 @@
     "name": "Ben Gurion International Airport",
     "iso_country": "IL",
     "municipality": "Tel Aviv",
-    "coordinates": "32.01139831542969, 34.88669967651367"
+    "coordinates": "32.01139831542969,34.88669967651367"
   },
   {
     "ident": "LLER",
@@ -1701,7 +1701,7 @@
     "name": "Ramon International Airport",
     "iso_country": "IL",
     "municipality": "Eilat",
-    "coordinates": "29.727009, 35.014116"
+    "coordinates": "29.727009,35.014116"
   },
   {
     "ident": "LMML",
@@ -1709,7 +1709,7 @@
     "name": "Malta International Airport",
     "iso_country": "MT",
     "municipality": "Valletta",
-    "coordinates": "35.857498, 14.4775"
+    "coordinates": "35.857498,14.4775"
   },
   {
     "ident": "LOWW",
@@ -1717,7 +1717,7 @@
     "name": "Vienna International Airport",
     "iso_country": "AT",
     "municipality": "Vienna",
-    "coordinates": "48.110298, 16.5697"
+    "coordinates": "48.110298,16.5697"
   },
   {
     "ident": "LPFR",
@@ -1725,7 +1725,7 @@
     "name": "Faro Airport",
     "iso_country": "PT",
     "municipality": "Faro",
-    "coordinates": "37.0144004822, -7.96590995789"
+    "coordinates": "37.0144004822,-7.96590995789"
   },
   {
     "ident": "LPPD",
@@ -1733,7 +1733,7 @@
     "name": "João Paulo II Airport",
     "iso_country": "PT",
     "municipality": "Ponta Delgada",
-    "coordinates": "37.7411994934, -25.6979007721"
+    "coordinates": "37.7411994934,-25.6979007721"
   },
   {
     "ident": "LPPR",
@@ -1741,7 +1741,7 @@
     "name": "Francisco de Sá Carneiro Airport",
     "iso_country": "PT",
     "municipality": "Porto",
-    "coordinates": "41.2481002808, -8.68138980865"
+    "coordinates": "41.2481002808,-8.68138980865"
   },
   {
     "ident": "LPPT",
@@ -1749,7 +1749,7 @@
     "name": "Humberto Delgado Airport (Lisbon Portela Airport)",
     "iso_country": "PT",
     "municipality": "Lisbon",
-    "coordinates": "38.7813, -9.13592"
+    "coordinates": "38.7813,-9.13592"
   },
   {
     "ident": "LROP",
@@ -1757,7 +1757,7 @@
     "name": "Henri Coandă International Airport",
     "iso_country": "RO",
     "municipality": "Bucharest",
-    "coordinates": "44.571111, 26.085"
+    "coordinates": "44.571111,26.085"
   },
   {
     "ident": "LSGG",
@@ -1765,7 +1765,7 @@
     "name": "Geneva Cointrin International Airport",
     "iso_country": "CH",
     "municipality": "Geneva",
-    "coordinates": "46.23809814453125, 6.108950138092041"
+    "coordinates": "46.23809814453125,6.108950138092041"
   },
   {
     "ident": "LSZH",
@@ -1773,7 +1773,7 @@
     "name": "Zürich Airport",
     "iso_country": "CH",
     "municipality": "Zurich",
-    "coordinates": "47.458056, 8.548056"
+    "coordinates": "47.458056,8.548056"
   },
   {
     "ident": "LTAC",
@@ -1781,7 +1781,7 @@
     "name": "Esenboğa International Airport",
     "iso_country": "TR",
     "municipality": "Ankara",
-    "coordinates": "40.128101348899996, 32.995098114"
+    "coordinates": "40.128101348899996,32.995098114"
   },
   {
     "ident": "LTAI",
@@ -1789,15 +1789,15 @@
     "name": "Antalya International Airport",
     "iso_country": "TR",
     "municipality": "Antalya",
-    "coordinates": "36.898701, 30.800501"
+    "coordinates": "36.898701,30.800501"
   },
   {
     "ident": "LTBA",
     "type": "large_airport",
     "name": "İstanbul Atatürk Airport",
     "iso_country": "TR",
-    "municipality": "Bakırköy, Istanbul",
-    "coordinates": "40.971913, 28.823714"
+    "municipality": "Bakırköy,Istanbul",
+    "coordinates": "40.971913,28.823714"
   },
   {
     "ident": "LTBJ",
@@ -1805,7 +1805,7 @@
     "name": "Adnan Menderes International Airport",
     "iso_country": "TR",
     "municipality": "İzmir",
-    "coordinates": "38.2924, 27.157"
+    "coordinates": "38.2924,27.157"
   },
   {
     "ident": "LTBS",
@@ -1813,7 +1813,7 @@
     "name": "Dalaman International Airport",
     "iso_country": "TR",
     "municipality": "Dalaman",
-    "coordinates": "36.7131004333, 28.7924995422"
+    "coordinates": "36.7131004333,28.7924995422"
   },
   {
     "ident": "LTFE",
@@ -1821,23 +1821,23 @@
     "name": "Milas Bodrum International Airport",
     "iso_country": "TR",
     "municipality": "Bodrum",
-    "coordinates": "37.25059890749999, 27.6643009186"
+    "coordinates": "37.25059890749999,27.6643009186"
   },
   {
     "ident": "LTFJ",
     "type": "large_airport",
     "name": "Istanbul Sabiha Gökçen International Airport",
     "iso_country": "TR",
-    "municipality": "Pendik, Istanbul",
-    "coordinates": "40.898602, 29.3092"
+    "municipality": "Pendik,Istanbul",
+    "coordinates": "40.898602,29.3092"
   },
   {
     "ident": "LTFM",
     "type": "large_airport",
     "name": "İstanbul Airport",
     "iso_country": "TR",
-    "municipality": "Arnavutköy, Istanbul",
-    "coordinates": "41.261297, 28.741951"
+    "municipality": "Arnavutköy,Istanbul",
+    "coordinates": "41.261297,28.741951"
   },
   {
     "ident": "LWSK",
@@ -1845,7 +1845,7 @@
     "name": "Skopje International Airport",
     "iso_country": "MK",
     "municipality": "Skopje",
-    "coordinates": "41.961601, 21.621401"
+    "coordinates": "41.961601,21.621401"
   },
   {
     "ident": "LYBE",
@@ -1853,7 +1853,7 @@
     "name": "Belgrade Nikola Tesla Airport",
     "iso_country": "RS",
     "municipality": "Belgrade",
-    "coordinates": "44.818401, 20.309099"
+    "coordinates": "44.818401,20.309099"
   },
   {
     "ident": "LYPG",
@@ -1861,7 +1861,7 @@
     "name": "Podgorica Airport / Podgorica Golubovci Airbase",
     "iso_country": "ME",
     "municipality": "Podgorica",
-    "coordinates": "42.359402, 19.2519"
+    "coordinates": "42.359402,19.2519"
   },
   {
     "ident": "LZIB",
@@ -1869,7 +1869,7 @@
     "name": "M. R. Štefánik Airport",
     "iso_country": "SK",
     "municipality": "Bratislava",
-    "coordinates": "48.17020034790039, 17.21269989013672"
+    "coordinates": "48.17020034790039,17.21269989013672"
   },
   {
     "ident": "MBPV",
@@ -1877,7 +1877,7 @@
     "name": "Providenciales International Airport",
     "iso_country": "TC",
     "municipality": "Providenciales",
-    "coordinates": "21.773697, -72.268321"
+    "coordinates": "21.773697,-72.268321"
   },
   {
     "ident": "MDPC",
@@ -1885,7 +1885,7 @@
     "name": "Punta Cana International Airport",
     "iso_country": "DO",
     "municipality": "Punta Cana",
-    "coordinates": "18.567399978599997, -68.36340332030001"
+    "coordinates": "18.567399978599997,-68.36340332030001"
   },
   {
     "ident": "MDSD",
@@ -1893,7 +1893,7 @@
     "name": "Las Américas International Airport",
     "iso_country": "DO",
     "municipality": "Santo Domingo",
-    "coordinates": "18.42970085144, -69.668899536133"
+    "coordinates": "18.42970085144,-69.668899536133"
   },
   {
     "ident": "MGGT",
@@ -1901,7 +1901,7 @@
     "name": "La Aurora Airport",
     "iso_country": "GT",
     "municipality": "Guatemala City",
-    "coordinates": "14.5833, -90.527496"
+    "coordinates": "14.5833,-90.527496"
   },
   {
     "ident": "MKJP",
@@ -1909,7 +1909,7 @@
     "name": "Norman Manley International Airport",
     "iso_country": "JM",
     "municipality": "Kingston",
-    "coordinates": "17.935699462890625, -76.7874984741211"
+    "coordinates": "17.935699462890625,-76.7874984741211"
   },
   {
     "ident": "MMAA",
@@ -1917,7 +1917,7 @@
     "name": "Aeropuerto Internacional Juan N. Álvarez",
     "iso_country": "MX",
     "municipality": "Ciudad de Acapulco",
-    "coordinates": "16.762118, -99.755473"
+    "coordinates": "16.762118,-99.755473"
   },
   {
     "ident": "MMCZ",
@@ -1925,15 +1925,15 @@
     "name": "Aeropuerto Internacional de Cozumel",
     "iso_country": "MX",
     "municipality": "Ciudad de Cozumel",
-    "coordinates": "20.511425, -86.930287"
+    "coordinates": "20.511425,-86.930287"
   },
   {
     "ident": "MMDO",
     "type": "large_airport",
-    "name": "Aeropuerto Internacional Gral, Guadalupe Victoria",
+    "name": "Aeropuerto Internacional Gral,Guadalupe Victoria",
     "iso_country": "MX",
     "municipality": "Ciudad de Durango",
-    "coordinates": "24.125908, -104.533904"
+    "coordinates": "24.125908,-104.533904"
   },
   {
     "ident": "MMGL",
@@ -1941,7 +1941,7 @@
     "name": "Aeropuerto Internacional Miguel Hidalgo",
     "iso_country": "MX",
     "municipality": "Ciudad de Tlajomulco de Zúñiga",
-    "coordinates": "20.52504, -103.301557"
+    "coordinates": "20.52504,-103.301557"
   },
   {
     "ident": "MMHO",
@@ -1949,7 +1949,7 @@
     "name": "General Ignacio P. Garcia International Airport",
     "iso_country": "MX",
     "municipality": "Hermosillo",
-    "coordinates": "29.095899581900003, -111.047996521"
+    "coordinates": "29.095899581900003,-111.047996521"
   },
   {
     "ident": "MMLO",
@@ -1957,7 +1957,7 @@
     "name": "Aeropuerto Internacional Del Bajío",
     "iso_country": "MX",
     "municipality": "Ciudad de Silao",
-    "coordinates": "20.985813, -101.478825"
+    "coordinates": "20.985813,-101.478825"
   },
   {
     "ident": "MMMD",
@@ -1965,7 +1965,7 @@
     "name": "Aeropuerto Internacional Manuel Crescencio Rejón",
     "iso_country": "MX",
     "municipality": "Ciudad de Mérida",
-    "coordinates": "20.933384, -89.662621"
+    "coordinates": "20.933384,-89.662621"
   },
   {
     "ident": "MMMX",
@@ -1973,7 +1973,7 @@
     "name": "Aeropuerto Internacional Lic. Benito Juárez",
     "iso_country": "MX",
     "municipality": "Ciudad de México",
-    "coordinates": "19.435433, -99.082432"
+    "coordinates": "19.435433,-99.082432"
   },
   {
     "ident": "MMMY",
@@ -1981,7 +1981,7 @@
     "name": "Aeropuerto Internacional Gral. Mariano Escobedo",
     "iso_country": "MX",
     "municipality": "Ciudad de Apodaca",
-    "coordinates": "25.778561, -100.113602"
+    "coordinates": "25.778561,-100.113602"
   },
   {
     "ident": "MMMZ",
@@ -1989,7 +1989,7 @@
     "name": "Aeropuerto Internacional Gral. Rafael Buelna",
     "iso_country": "MX",
     "municipality": "Ciudad de Mazatlán",
-    "coordinates": "23.166689, -106.270151"
+    "coordinates": "23.166689,-106.270151"
   },
   {
     "ident": "MMPR",
@@ -1997,7 +1997,7 @@
     "name": "Aeropuerto Internacional Lic. Gustavo Díaz Ordaz",
     "iso_country": "MX",
     "municipality": "Ciudad de Puerto Vallarta",
-    "coordinates": "20.679746, -105.246685"
+    "coordinates": "20.679746,-105.246685"
   },
   {
     "ident": "MMSD",
@@ -2005,7 +2005,7 @@
     "name": "Aeropuerto Internacional de Los Cabos",
     "iso_country": "MX",
     "municipality": "Ciudad de San José del Cabo",
-    "coordinates": "23.15642, -109.716811"
+    "coordinates": "23.15642,-109.716811"
   },
   {
     "ident": "MMSM",
@@ -2013,7 +2013,7 @@
     "name": "General Felipe Ángeles International Airport",
     "iso_country": "MX",
     "municipality": "Mexico City",
-    "coordinates": "19.7458, -99.0145"
+    "coordinates": "19.7458,-99.0145"
   },
   {
     "ident": "MMTJ",
@@ -2021,7 +2021,7 @@
     "name": "Aeropuerto Internacional Gral. Abelardo Rodriguez",
     "iso_country": "MX",
     "municipality": "Ciudad de Tijuana",
-    "coordinates": "32.545963, -116.975856"
+    "coordinates": "32.545963,-116.975856"
   },
   {
     "ident": "MMTO",
@@ -2029,7 +2029,7 @@
     "name": "Aeropuerto Internacional Adolfo López Mateos",
     "iso_country": "MX",
     "municipality": "Ciudad de Toluca",
-    "coordinates": "19.338196, -99.570358"
+    "coordinates": "19.338196,-99.570358"
   },
   {
     "ident": "MMUN",
@@ -2037,7 +2037,7 @@
     "name": "Aeropuerto Internacional de Cancún",
     "iso_country": "MX",
     "municipality": "Ciudad de Cancún",
-    "coordinates": "21.039444, -86.874304"
+    "coordinates": "21.039444,-86.874304"
   },
   {
     "ident": "MPTO",
@@ -2045,7 +2045,7 @@
     "name": "Tocumen International Airport",
     "iso_country": "PA",
     "municipality": "Tocumen",
-    "coordinates": "9.0713596344, -79.3834991455"
+    "coordinates": "9.0713596344,-79.3834991455"
   },
   {
     "ident": "MRLB",
@@ -2053,7 +2053,7 @@
     "name": "Guanacaste Airport",
     "iso_country": "CR",
     "municipality": "Liberia",
-    "coordinates": "10.5933, -85.544403"
+    "coordinates": "10.5933,-85.544403"
   },
   {
     "ident": "MSLP",
@@ -2061,7 +2061,7 @@
     "name": "Monseñor Óscar Arnulfo Romero International Airport",
     "iso_country": "SV",
     "municipality": "San Salvador (San Luis Talpa)",
-    "coordinates": "13.4409, -89.055702"
+    "coordinates": "13.4409,-89.055702"
   },
   {
     "ident": "MTPP",
@@ -2069,7 +2069,7 @@
     "name": "Toussaint Louverture International Airport",
     "iso_country": "HT",
     "municipality": "Port-au-Prince",
-    "coordinates": "18.58, -72.292503"
+    "coordinates": "18.58,-72.292503"
   },
   {
     "ident": "MUHA",
@@ -2077,7 +2077,7 @@
     "name": "José Martí International Airport",
     "iso_country": "CU",
     "municipality": "Havana",
-    "coordinates": "22.989200592041016, -82.40910339355469"
+    "coordinates": "22.989200592041016,-82.40910339355469"
   },
   {
     "ident": "MUVR",
@@ -2085,7 +2085,7 @@
     "name": "Juan Gualberto Gomez International Airport",
     "iso_country": "CU",
     "municipality": "Matanzas",
-    "coordinates": "23.034401, -81.435303"
+    "coordinates": "23.034401,-81.435303"
   },
   {
     "ident": "MWCR",
@@ -2093,7 +2093,7 @@
     "name": "Owen Roberts International Airport",
     "iso_country": "KY",
     "municipality": "George Town",
-    "coordinates": "19.292801, -81.357697"
+    "coordinates": "19.292801,-81.357697"
   },
   {
     "ident": "MYNN",
@@ -2101,7 +2101,7 @@
     "name": "Lynden Pindling International Airport",
     "iso_country": "BS",
     "municipality": "Nassau",
-    "coordinates": "25.039, -77.466202"
+    "coordinates": "25.039,-77.466202"
   },
   {
     "ident": "MZBZ",
@@ -2109,7 +2109,7 @@
     "name": "Philip S. W. Goldson International Airport",
     "iso_country": "BZ",
     "municipality": "Belize City",
-    "coordinates": "17.539951, -88.303556"
+    "coordinates": "17.539951,-88.303556"
   },
   {
     "ident": "NTAA",
@@ -2117,7 +2117,7 @@
     "name": "Faa'a International Airport",
     "iso_country": "PF",
     "municipality": "Papeete",
-    "coordinates": "-17.553699, -149.606995"
+    "coordinates": "-17.553699,-149.606995"
   },
   {
     "ident": "NVVV",
@@ -2125,7 +2125,7 @@
     "name": "Bauerfield International Airport",
     "iso_country": "VU",
     "municipality": "Port Vila",
-    "coordinates": "-17.699301, 168.320007"
+    "coordinates": "-17.699301,168.320007"
   },
   {
     "ident": "NWWM",
@@ -2133,7 +2133,7 @@
     "name": "Nouméa Magenta Airport",
     "iso_country": "NC",
     "municipality": "Nouméa",
-    "coordinates": "-22.258301, 166.473007"
+    "coordinates": "-22.258301,166.473007"
   },
   {
     "ident": "NZAA",
@@ -2141,7 +2141,7 @@
     "name": "Auckland International Airport",
     "iso_country": "NZ",
     "municipality": "Auckland",
-    "coordinates": "-37.01199, 174.786331"
+    "coordinates": "-37.01199,174.786331"
   },
   {
     "ident": "NZCH",
@@ -2149,7 +2149,7 @@
     "name": "Christchurch International Airport",
     "iso_country": "NZ",
     "municipality": "Christchurch",
-    "coordinates": "-43.48939895629883, 172.53199768066406"
+    "coordinates": "-43.48939895629883,172.53199768066406"
   },
   {
     "ident": "NZWN",
@@ -2157,7 +2157,7 @@
     "name": "Wellington International Airport",
     "iso_country": "NZ",
     "municipality": "Wellington",
-    "coordinates": "-41.3272018433, 174.804992676"
+    "coordinates": "-41.3272018433,174.804992676"
   },
   {
     "ident": "OBBI",
@@ -2165,7 +2165,7 @@
     "name": "Bahrain International Airport",
     "iso_country": "BH",
     "municipality": "Manama",
-    "coordinates": "26.267295, 50.63764"
+    "coordinates": "26.267295,50.63764"
   },
   {
     "ident": "OEDF",
@@ -2173,7 +2173,7 @@
     "name": "King Fahd International Airport",
     "iso_country": "SA",
     "municipality": "Ad Dammam",
-    "coordinates": "26.471200942993164, 49.79790115356445"
+    "coordinates": "26.471200942993164,49.79790115356445"
   },
   {
     "ident": "OEDR",
@@ -2181,7 +2181,7 @@
     "name": "King Abdulaziz Air Base",
     "iso_country": "SA",
     "municipality": "Dhahran",
-    "coordinates": "26.2654, 50.152"
+    "coordinates": "26.2654,50.152"
   },
   {
     "ident": "OEJN",
@@ -2189,7 +2189,7 @@
     "name": "King Abdulaziz International Airport",
     "iso_country": "SA",
     "municipality": "Jeddah",
-    "coordinates": "21.6796, 39.156502"
+    "coordinates": "21.6796,39.156502"
   },
   {
     "ident": "OEMA",
@@ -2197,7 +2197,7 @@
     "name": "Prince Mohammad Bin Abdulaziz Airport",
     "iso_country": "SA",
     "municipality": "Medina",
-    "coordinates": "24.5534, 39.705101"
+    "coordinates": "24.5534,39.705101"
   },
   {
     "ident": "OERK",
@@ -2205,7 +2205,7 @@
     "name": "King Khaled International Airport",
     "iso_country": "SA",
     "municipality": "Riyadh",
-    "coordinates": "24.957599639892578, 46.69879913330078"
+    "coordinates": "24.957599639892578,46.69879913330078"
   },
   {
     "ident": "OIIE",
@@ -2213,7 +2213,7 @@
     "name": "Imam Khomeini International Airport",
     "iso_country": "IR",
     "municipality": "Tehran",
-    "coordinates": "35.416099548339844, 51.152198791503906"
+    "coordinates": "35.416099548339844,51.152198791503906"
   },
   {
     "ident": "OIII",
@@ -2221,7 +2221,7 @@
     "name": "Mehrabad International Airport",
     "iso_country": "IR",
     "municipality": "Tehran",
-    "coordinates": "35.68920135498047, 51.31340026855469"
+    "coordinates": "35.68920135498047,51.31340026855469"
   },
   {
     "ident": "OIMM",
@@ -2229,7 +2229,7 @@
     "name": "Mashhad International Airport",
     "iso_country": "IR",
     "municipality": "Mashhad",
-    "coordinates": "36.235198974609375, 59.64099884033203"
+    "coordinates": "36.235198974609375,59.64099884033203"
   },
   {
     "ident": "OISS",
@@ -2237,7 +2237,7 @@
     "name": "Shiraz Shahid Dastghaib International Airport",
     "iso_country": "IR",
     "municipality": "Shiraz",
-    "coordinates": "29.5392, 52.589802"
+    "coordinates": "29.5392,52.589802"
   },
   {
     "ident": "OJAI",
@@ -2245,7 +2245,7 @@
     "name": "Queen Alia International Airport",
     "iso_country": "JO",
     "municipality": "Amman",
-    "coordinates": "31.7226009369, 35.9931983948"
+    "coordinates": "31.7226009369,35.9931983948"
   },
   {
     "ident": "OKBK",
@@ -2253,7 +2253,7 @@
     "name": "Kuwait International Airport",
     "iso_country": "KW",
     "municipality": "Kuwait City",
-    "coordinates": "29.226601, 47.968899"
+    "coordinates": "29.226601,47.968899"
   },
   {
     "ident": "OLBA",
@@ -2261,7 +2261,7 @@
     "name": "Beirut Rafic Hariri International Airport",
     "iso_country": "LB",
     "municipality": "Beirut",
-    "coordinates": "33.820899963378906, 35.488399505615234"
+    "coordinates": "33.820899963378906,35.488399505615234"
   },
   {
     "ident": "OM-0003",
@@ -2269,7 +2269,7 @@
     "name": "Duqm International Airport",
     "iso_country": "OM",
     "municipality": "Duqm",
-    "coordinates": "19.501944, 57.634167"
+    "coordinates": "19.501944,57.634167"
   },
   {
     "ident": "OMAA",
@@ -2277,7 +2277,7 @@
     "name": "Abu Dhabi International Airport",
     "iso_country": "AE",
     "municipality": "Abu Dhabi",
-    "coordinates": "24.443764, 54.651718"
+    "coordinates": "24.443764,54.651718"
   },
   {
     "ident": "OMDB",
@@ -2285,7 +2285,7 @@
     "name": "Dubai International Airport",
     "iso_country": "AE",
     "municipality": "Dubai",
-    "coordinates": "25.2527999878, 55.3643989563"
+    "coordinates": "25.2527999878,55.3643989563"
   },
   {
     "ident": "OMDW",
@@ -2293,7 +2293,7 @@
     "name": "Al Maktoum International Airport",
     "iso_country": "AE",
     "municipality": "Jebel Ali",
-    "coordinates": "24.896356, 55.161389"
+    "coordinates": "24.896356,55.161389"
   },
   {
     "ident": "OMSJ",
@@ -2301,7 +2301,7 @@
     "name": "Sharjah International Airport",
     "iso_country": "AE",
     "municipality": "Sharjah",
-    "coordinates": "25.32859992980957, 55.5172004699707"
+    "coordinates": "25.32859992980957,55.5172004699707"
   },
   {
     "ident": "OOMS",
@@ -2309,7 +2309,7 @@
     "name": "Muscat International Airport",
     "iso_country": "OM",
     "municipality": "Muscat",
-    "coordinates": "23.593299865722656, 58.284400939941406"
+    "coordinates": "23.593299865722656,58.284400939941406"
   },
   {
     "ident": "OPIS",
@@ -2317,7 +2317,7 @@
     "name": "Islamabad International Airport",
     "iso_country": "PK",
     "municipality": "Attock",
-    "coordinates": "33.549, 72.82566"
+    "coordinates": "33.549,72.82566"
   },
   {
     "ident": "OPKC",
@@ -2325,7 +2325,7 @@
     "name": "Jinnah International Airport",
     "iso_country": "PK",
     "municipality": "Karachi",
-    "coordinates": "24.9065, 67.160797"
+    "coordinates": "24.9065,67.160797"
   },
   {
     "ident": "OPLA",
@@ -2333,7 +2333,7 @@
     "name": "Allama Iqbal International Airport",
     "iso_country": "PK",
     "municipality": "Lahore",
-    "coordinates": "31.521601, 74.403603"
+    "coordinates": "31.521601,74.403603"
   },
   {
     "ident": "ORBI",
@@ -2341,7 +2341,7 @@
     "name": "Baghdad International Airport / New Al Muthana Air Base",
     "iso_country": "IQ",
     "municipality": "Baghdad",
-    "coordinates": "33.262501, 44.2346"
+    "coordinates": "33.262501,44.2346"
   },
   {
     "ident": "OSDI",
@@ -2349,7 +2349,7 @@
     "name": "Damascus International Airport",
     "iso_country": "SY",
     "municipality": "Damascus",
-    "coordinates": "33.4114990234375, 36.51559829711914"
+    "coordinates": "33.4114990234375,36.51559829711914"
   },
   {
     "ident": "OTHH",
@@ -2357,7 +2357,7 @@
     "name": "Hamad International Airport",
     "iso_country": "QA",
     "municipality": "Doha",
-    "coordinates": "25.273056, 51.608056"
+    "coordinates": "25.273056,51.608056"
   },
   {
     "ident": "PAFA",
@@ -2365,7 +2365,7 @@
     "name": "Fairbanks International Airport",
     "iso_country": "US",
     "municipality": "Fairbanks",
-    "coordinates": "64.81510162, -147.8560028"
+    "coordinates": "64.81510162,-147.8560028"
   },
   {
     "ident": "PANC",
@@ -2373,7 +2373,7 @@
     "name": "Ted Stevens Anchorage International Airport",
     "iso_country": "US",
     "municipality": "Anchorage",
-    "coordinates": "61.1744, -149.996002"
+    "coordinates": "61.1744,-149.996002"
   },
   {
     "ident": "PGUM",
@@ -2381,7 +2381,7 @@
     "name": "Antonio B. Won Pat International Airport",
     "iso_country": "GU",
     "municipality": "HagÃ¥tÃ±a",
-    "coordinates": "13.4834, 144.796005"
+    "coordinates": "13.4834,144.796005"
   },
   {
     "ident": "PHNL",
@@ -2389,7 +2389,7 @@
     "name": "Daniel K Inouye International Airport",
     "iso_country": "US",
     "municipality": "Honolulu",
-    "coordinates": "21.32062, -157.924228"
+    "coordinates": "21.32062,-157.924228"
   },
   {
     "ident": "RCKH",
@@ -2397,7 +2397,7 @@
     "name": "Kaohsiung International Airport",
     "iso_country": "TW",
     "municipality": "Kaohsiung (Xiaogang)",
-    "coordinates": "22.577101, 120.349998"
+    "coordinates": "22.577101,120.349998"
   },
   {
     "ident": "RCTP",
@@ -2405,7 +2405,7 @@
     "name": "Taiwan Taoyuan International Airport",
     "iso_country": "TW",
     "municipality": "Taoyuan (Dayuan)",
-    "coordinates": "25.0777, 121.233002"
+    "coordinates": "25.0777,121.233002"
   },
   {
     "ident": "RJAA",
@@ -2413,7 +2413,7 @@
     "name": "Narita International Airport",
     "iso_country": "JP",
     "municipality": "Narita",
-    "coordinates": "35.764702, 140.386002"
+    "coordinates": "35.764702,140.386002"
   },
   {
     "ident": "RJBB",
@@ -2421,7 +2421,7 @@
     "name": "Kansai International Airport",
     "iso_country": "JP",
     "municipality": "Osaka",
-    "coordinates": "34.427299, 135.244003"
+    "coordinates": "34.427299,135.244003"
   },
   {
     "ident": "RJCC",
@@ -2429,7 +2429,7 @@
     "name": "New Chitose Airport",
     "iso_country": "JP",
     "municipality": "Sapporo",
-    "coordinates": "42.7752, 141.692001"
+    "coordinates": "42.7752,141.692001"
   },
   {
     "ident": "RJFF",
@@ -2437,7 +2437,7 @@
     "name": "Fukuoka Airport",
     "iso_country": "JP",
     "municipality": "Fukuoka",
-    "coordinates": "33.585899353027344, 130.4510040283203"
+    "coordinates": "33.585899353027344,130.4510040283203"
   },
   {
     "ident": "RJFK",
@@ -2445,7 +2445,7 @@
     "name": "Kagoshima Airport",
     "iso_country": "JP",
     "municipality": "Kagoshima",
-    "coordinates": "31.80340003967285, 130.718994140625"
+    "coordinates": "31.80340003967285,130.718994140625"
   },
   {
     "ident": "RJGG",
@@ -2453,7 +2453,7 @@
     "name": "Chubu Centrair International Airport",
     "iso_country": "JP",
     "municipality": "Tokoname",
-    "coordinates": "34.8583984375, 136.80499267578125"
+    "coordinates": "34.8583984375,136.80499267578125"
   },
   {
     "ident": "RJOO",
@@ -2461,7 +2461,7 @@
     "name": "Osaka International Airport",
     "iso_country": "JP",
     "municipality": "Osaka",
-    "coordinates": "34.785499572753906, 135.43800354003906"
+    "coordinates": "34.785499572753906,135.43800354003906"
   },
   {
     "ident": "RJSS",
@@ -2469,7 +2469,7 @@
     "name": "Sendai Airport",
     "iso_country": "JP",
     "municipality": "Natori",
-    "coordinates": "38.139702, 140.917007"
+    "coordinates": "38.139702,140.917007"
   },
   {
     "ident": "RJTT",
@@ -2477,7 +2477,7 @@
     "name": "Tokyo Haneda International Airport",
     "iso_country": "JP",
     "municipality": "Tokyo",
-    "coordinates": "35.552299, 139.779999"
+    "coordinates": "35.552299,139.779999"
   },
   {
     "ident": "RJTY",
@@ -2485,7 +2485,7 @@
     "name": "Yokota Air Base",
     "iso_country": "JP",
     "municipality": "Fussa",
-    "coordinates": "35.748501, 139.348007"
+    "coordinates": "35.748501,139.348007"
   },
   {
     "ident": "RKJB",
@@ -2493,7 +2493,7 @@
     "name": "Muan International Airport",
     "iso_country": "KR",
     "municipality": "Piseo-ri (Muan)",
-    "coordinates": "34.991406, 126.382814"
+    "coordinates": "34.991406,126.382814"
   },
   {
     "ident": "RKPC",
@@ -2501,7 +2501,7 @@
     "name": "Jeju International Airport",
     "iso_country": "KR",
     "municipality": "Jeju City",
-    "coordinates": "33.512058, 126.492548"
+    "coordinates": "33.512058,126.492548"
   },
   {
     "ident": "RKPK",
@@ -2509,7 +2509,7 @@
     "name": "Gimhae International Airport",
     "iso_country": "KR",
     "municipality": "Busan",
-    "coordinates": "35.179501, 128.938004"
+    "coordinates": "35.179501,128.938004"
   },
   {
     "ident": "RKSI",
@@ -2517,7 +2517,7 @@
     "name": "Incheon International Airport",
     "iso_country": "KR",
     "municipality": "Seoul",
-    "coordinates": "37.46910095214844, 126.45099639892578"
+    "coordinates": "37.46910095214844,126.45099639892578"
   },
   {
     "ident": "RKSS",
@@ -2525,7 +2525,7 @@
     "name": "Gimpo International Airport",
     "iso_country": "KR",
     "municipality": "Seoul",
-    "coordinates": "37.5583, 126.791"
+    "coordinates": "37.5583,126.791"
   },
   {
     "ident": "ROAH",
@@ -2533,7 +2533,7 @@
     "name": "Naha Airport / JASDF Naha Air Base",
     "iso_country": "JP",
     "municipality": "Naha",
-    "coordinates": "26.195801, 127.646004"
+    "coordinates": "26.195801,127.646004"
   },
   {
     "ident": "RPLL",
@@ -2541,7 +2541,7 @@
     "name": "Ninoy Aquino International Airport",
     "iso_country": "PH",
     "municipality": "Manila",
-    "coordinates": "14.5086, 121.019997"
+    "coordinates": "14.5086,121.019997"
   },
   {
     "ident": "RPMD",
@@ -2549,7 +2549,7 @@
     "name": "Francisco Bangoy International Airport",
     "iso_country": "PH",
     "municipality": "Davao",
-    "coordinates": "7.12552, 125.646004"
+    "coordinates": "7.12552,125.646004"
   },
   {
     "ident": "RPVM",
@@ -2557,7 +2557,7 @@
     "name": "Mactan Cebu International Airport",
     "iso_country": "PH",
     "municipality": "Lapu-Lapu City",
-    "coordinates": "10.309261, 123.97974"
+    "coordinates": "10.309261,123.97974"
   },
   {
     "ident": "SABE",
@@ -2565,7 +2565,7 @@
     "name": "Jorge Newbery Airpark",
     "iso_country": "AR",
     "municipality": "Buenos Aires",
-    "coordinates": "-34.5592, -58.4156"
+    "coordinates": "-34.5592,-58.4156"
   },
   {
     "ident": "SAEZ",
@@ -2573,7 +2573,7 @@
     "name": "Minister Pistarini International Airport",
     "iso_country": "AR",
     "municipality": "Buenos Aires (Ezeiza)",
-    "coordinates": "-34.8222, -58.5358"
+    "coordinates": "-34.8222,-58.5358"
   },
   {
     "ident": "SBBE",
@@ -2581,7 +2581,7 @@
     "name": "Val de Cans/Júlio Cezar Ribeiro International Airport",
     "iso_country": "BR",
     "municipality": "Belém",
-    "coordinates": "-1.379279, -48.476207"
+    "coordinates": "-1.379279,-48.476207"
   },
   {
     "ident": "SBBR",
@@ -2589,7 +2589,7 @@
     "name": "Presidente Juscelino Kubitschek International Airport",
     "iso_country": "BR",
     "municipality": "Brasília",
-    "coordinates": "-15.869167, -47.920834"
+    "coordinates": "-15.869167,-47.920834"
   },
   {
     "ident": "SBCF",
@@ -2597,7 +2597,7 @@
     "name": "Tancredo Neves International Airport",
     "iso_country": "BR",
     "municipality": "Belo Horizonte",
-    "coordinates": "-19.63571, -43.966928"
+    "coordinates": "-19.63571,-43.966928"
   },
   {
     "ident": "SBEG",
@@ -2605,7 +2605,7 @@
     "name": "Eduardo Gomes International Airport",
     "iso_country": "BR",
     "municipality": "Manaus",
-    "coordinates": "-3.03861, -60.049702"
+    "coordinates": "-3.03861,-60.049702"
   },
   {
     "ident": "SBFL",
@@ -2613,7 +2613,7 @@
     "name": "Hercílio Luz International Airport",
     "iso_country": "BR",
     "municipality": "Florianópolis",
-    "coordinates": "-27.670279, -48.552502"
+    "coordinates": "-27.670279,-48.552502"
   },
   {
     "ident": "SBGL",
@@ -2621,7 +2621,7 @@
     "name": "Rio Galeão - Tom Jobim International Airport",
     "iso_country": "BR",
     "municipality": "Rio De Janeiro",
-    "coordinates": "-22.809999, -43.250557"
+    "coordinates": "-22.809999,-43.250557"
   },
   {
     "ident": "SBGR",
@@ -2629,7 +2629,7 @@
     "name": "Guarulhos - Governador André Franco Montoro International Airport",
     "iso_country": "BR",
     "municipality": "São Paulo",
-    "coordinates": "-23.431944, -46.467778"
+    "coordinates": "-23.431944,-46.467778"
   },
   {
     "ident": "SBSV",
@@ -2637,7 +2637,7 @@
     "name": "Deputado Luiz Eduardo Magalhães International Airport",
     "iso_country": "BR",
     "municipality": "Salvador",
-    "coordinates": "-12.908611, -38.322498"
+    "coordinates": "-12.908611,-38.322498"
   },
   {
     "ident": "SCEL",
@@ -2645,7 +2645,7 @@
     "name": "Comodoro Arturo Merino Benítez International Airport",
     "iso_country": "CL",
     "municipality": "Santiago",
-    "coordinates": "-33.393001556396484, -70.78579711914062"
+    "coordinates": "-33.393001556396484,-70.78579711914062"
   },
   {
     "ident": "SEGU",
@@ -2653,7 +2653,7 @@
     "name": "José Joaquín de Olmedo International Airport",
     "iso_country": "EC",
     "municipality": "Guayaquil",
-    "coordinates": "-2.15742, -79.883598"
+    "coordinates": "-2.15742,-79.883598"
   },
   {
     "ident": "SEQM",
@@ -2661,7 +2661,7 @@
     "name": "Mariscal Sucre International Airport",
     "iso_country": "EC",
     "municipality": "Quito",
-    "coordinates": "-0.125399, -78.354306"
+    "coordinates": "-0.125399,-78.354306"
   },
   {
     "ident": "SGAS",
@@ -2669,7 +2669,7 @@
     "name": "Aeropuerto Internacional Silvio Pettirossi",
     "iso_country": "PY",
     "municipality": "Luque",
-    "coordinates": "-25.241736, -57.514104"
+    "coordinates": "-25.241736,-57.514104"
   },
   {
     "ident": "SGES",
@@ -2677,7 +2677,7 @@
     "name": "Aeropuerto Internacional Guaraní",
     "iso_country": "PY",
     "municipality": "Ciudad del Este",
-    "coordinates": "-25.457186, -54.839544"
+    "coordinates": "-25.457186,-54.839544"
   },
   {
     "ident": "SGME",
@@ -2685,7 +2685,7 @@
     "name": "Aeropuerto Internacional Dr. Luis Maria Argana",
     "iso_country": "PY",
     "municipality": "Mariscal Estigarribia",
-    "coordinates": "-22.032463, -60.620284"
+    "coordinates": "-22.032463,-60.620284"
   },
   {
     "ident": "SGPJ",
@@ -2693,7 +2693,7 @@
     "name": "Aeropuerto Internacional Dr. Augusto Roberto Fuster",
     "iso_country": "PY",
     "municipality": "Pedro Juan Caballero",
-    "coordinates": "-22.640946, -55.832005"
+    "coordinates": "-22.640946,-55.832005"
   },
   {
     "ident": "SKBO",
@@ -2701,7 +2701,7 @@
     "name": "El Dorado International Airport",
     "iso_country": "CO",
     "municipality": "Bogotá",
-    "coordinates": "4.70159, -74.1469"
+    "coordinates": "4.70159,-74.1469"
   },
   {
     "ident": "SLVR",
@@ -2709,7 +2709,7 @@
     "name": "Viru Viru International Airport",
     "iso_country": "BO",
     "municipality": "Santa Cruz",
-    "coordinates": "-17.6448, -63.135399"
+    "coordinates": "-17.6448,-63.135399"
   },
   {
     "ident": "SMJP",
@@ -2717,7 +2717,7 @@
     "name": "Johan Adolf Pengel International Airport",
     "iso_country": "SR",
     "municipality": "Zandery",
-    "coordinates": "5.45283, -55.187801"
+    "coordinates": "5.45283,-55.187801"
   },
   {
     "ident": "SOCA",
@@ -2725,7 +2725,7 @@
     "name": "Cayenne - Félix Eboué Airport",
     "iso_country": "GF",
     "municipality": "Matoury",
-    "coordinates": "4.819964, -52.361326"
+    "coordinates": "4.819964,-52.361326"
   },
   {
     "ident": "SPIM",
@@ -2733,7 +2733,7 @@
     "name": "Jorge Chávez International Airport",
     "iso_country": "PE",
     "municipality": "Lima",
-    "coordinates": "-12.0219, -77.114305"
+    "coordinates": "-12.0219,-77.114305"
   },
   {
     "ident": "SPZO",
@@ -2741,7 +2741,7 @@
     "name": "Alejandro Velasco Astete International Airport",
     "iso_country": "PE",
     "municipality": "Cusco",
-    "coordinates": "-13.535699844400002, -71.9387969971"
+    "coordinates": "-13.535699844400002,-71.9387969971"
   },
   {
     "ident": "SUMU",
@@ -2749,7 +2749,7 @@
     "name": "Carrasco General Cesáreo L. Berisso International Airport",
     "iso_country": "UY",
     "municipality": "Ciudad de la Costa",
-    "coordinates": "-34.835647, -56.026497"
+    "coordinates": "-34.835647,-56.026497"
   },
   {
     "ident": "SVBC",
@@ -2757,7 +2757,7 @@
     "name": "General José Antonio Anzoategui International Airport",
     "iso_country": "VE",
     "municipality": "Barcelona",
-    "coordinates": "10.111111, -64.692222"
+    "coordinates": "10.111111,-64.692222"
   },
   {
     "ident": "SVMI",
@@ -2765,15 +2765,15 @@
     "name": "Simón Bolívar International Airport",
     "iso_country": "VE",
     "municipality": "Caracas",
-    "coordinates": "10.601194, -66.991222"
+    "coordinates": "10.601194,-66.991222"
   },
   {
     "ident": "TAO",
     "type": "large_airport",
     "name": "Qingdao Jiaodong International Airport",
     "iso_country": "CN",
-    "municipality": "Jiaozhou, Qingdao",
-    "coordinates": "36.361953, 120.088171"
+    "municipality": "Jiaozhou,Qingdao",
+    "coordinates": "36.361953,120.088171"
   },
   {
     "ident": "TFFF",
@@ -2781,7 +2781,7 @@
     "name": "Martinique Aimé Césaire International Airport",
     "iso_country": "MQ",
     "municipality": "Fort-de-France",
-    "coordinates": "14.591, -61.003201"
+    "coordinates": "14.591,-61.003201"
   },
   {
     "ident": "TFFR",
@@ -2789,7 +2789,7 @@
     "name": "Pointe-à-Pitre Le Raizet International Airport",
     "iso_country": "GP",
     "municipality": "Pointe-à-Pitre",
-    "coordinates": "16.265301, -61.531799"
+    "coordinates": "16.265301,-61.531799"
   },
   {
     "ident": "TJSJ",
@@ -2797,7 +2797,7 @@
     "name": "Luis Munoz Marin International Airport",
     "iso_country": "PR",
     "municipality": "San Juan",
-    "coordinates": "18.4393997192, -66.0018005371"
+    "coordinates": "18.4393997192,-66.0018005371"
   },
   {
     "ident": "TLPL",
@@ -2805,7 +2805,7 @@
     "name": "Hewanorra International Airport",
     "iso_country": "LC",
     "municipality": "Vieux Fort",
-    "coordinates": "13.7332, -60.952599"
+    "coordinates": "13.7332,-60.952599"
   },
   {
     "ident": "TNCA",
@@ -2813,15 +2813,15 @@
     "name": "Queen Beatrix International Airport",
     "iso_country": "AW",
     "municipality": "Oranjestad",
-    "coordinates": "12.5014, -70.015198"
+    "coordinates": "12.5014,-70.015198"
   },
   {
     "ident": "TNCB",
     "type": "large_airport",
     "name": "Flamingo International Airport",
     "iso_country": "BQ",
-    "municipality": "Kralendijk, Bonaire",
-    "coordinates": "12.131, -68.268501"
+    "municipality": "Kralendijk,Bonaire",
+    "coordinates": "12.131,-68.268501"
   },
   {
     "ident": "TNCC",
@@ -2829,7 +2829,7 @@
     "name": "Hato International Airport",
     "iso_country": "CW",
     "municipality": "Willemstad",
-    "coordinates": "12.1889, -68.959801"
+    "coordinates": "12.1889,-68.959801"
   },
   {
     "ident": "TNCM",
@@ -2837,7 +2837,7 @@
     "name": "Princess Juliana International Airport",
     "iso_country": "SX",
     "municipality": "Saint Martin",
-    "coordinates": "18.041, -63.108898"
+    "coordinates": "18.041,-63.108898"
   },
   {
     "ident": "UAAA",
@@ -2845,7 +2845,7 @@
     "name": "Almaty International Airport",
     "iso_country": "KZ",
     "municipality": "Almaty",
-    "coordinates": "43.354267, 77.042828"
+    "coordinates": "43.354267,77.042828"
   },
   {
     "ident": "UACC",
@@ -2853,7 +2853,7 @@
     "name": "Nursultan Nazarbayev International Airport",
     "iso_country": "KZ",
     "municipality": "Nur-Sultan",
-    "coordinates": "51.022202, 71.466904"
+    "coordinates": "51.022202,71.466904"
   },
   {
     "ident": "UAFM",
@@ -2861,7 +2861,7 @@
     "name": "Manas International Airport",
     "iso_country": "KG",
     "municipality": "Bishkek",
-    "coordinates": "43.0612983704, 74.4776000977"
+    "coordinates": "43.0612983704,74.4776000977"
   },
   {
     "ident": "UBBB",
@@ -2869,7 +2869,7 @@
     "name": "Heydar Aliyev International Airport",
     "iso_country": "AZ",
     "municipality": "Baku",
-    "coordinates": "40.467498779296875, 50.04669952392578"
+    "coordinates": "40.467498779296875,50.04669952392578"
   },
   {
     "ident": "UDYZ",
@@ -2877,7 +2877,7 @@
     "name": "Zvartnots International Airport",
     "iso_country": "AM",
     "municipality": "Yerevan",
-    "coordinates": "40.1473007202, 44.3959007263"
+    "coordinates": "40.1473007202,44.3959007263"
   },
   {
     "ident": "UGTB",
@@ -2885,7 +2885,7 @@
     "name": "Tbilisi International Airport",
     "iso_country": "GE",
     "municipality": "Tbilisi",
-    "coordinates": "41.6692008972, 44.95470047"
+    "coordinates": "41.6692008972,44.95470047"
   },
   {
     "ident": "UHWW",
@@ -2893,7 +2893,7 @@
     "name": "Vladivostok International Airport",
     "iso_country": "RU",
     "municipality": "Artyom",
-    "coordinates": "43.396256, 132.148155"
+    "coordinates": "43.396256,132.148155"
   },
   {
     "ident": "UKBB",
@@ -2901,7 +2901,7 @@
     "name": "Boryspil International Airport",
     "iso_country": "UA",
     "municipality": "Boryspil",
-    "coordinates": "50.345001, 30.894699"
+    "coordinates": "50.345001,30.894699"
   },
   {
     "ident": "UKLL",
@@ -2909,7 +2909,7 @@
     "name": "Lviv International Airport",
     "iso_country": "UA",
     "municipality": "Lviv",
-    "coordinates": "49.8125, 23.9561"
+    "coordinates": "49.8125,23.9561"
   },
   {
     "ident": "ULLI",
@@ -2917,7 +2917,7 @@
     "name": "Pulkovo Airport",
     "iso_country": "RU",
     "municipality": "St. Petersburg",
-    "coordinates": "59.80030059814453, 30.262500762939453"
+    "coordinates": "59.80030059814453,30.262500762939453"
   },
   {
     "ident": "UMMS",
@@ -2925,7 +2925,7 @@
     "name": "Minsk National Airport",
     "iso_country": "BY",
     "municipality": "Minsk",
-    "coordinates": "53.888071, 28.039964"
+    "coordinates": "53.888071,28.039964"
   },
   {
     "ident": "UNKL",
@@ -2933,7 +2933,7 @@
     "name": "Krasnoyarsk International Airport",
     "iso_country": "RU",
     "municipality": "Krasnoyarsk",
-    "coordinates": "56.173077, 92.492437"
+    "coordinates": "56.173077,92.492437"
   },
   {
     "ident": "UNNT",
@@ -2941,7 +2941,7 @@
     "name": "Novosibirsk Tolmachevo Airport",
     "iso_country": "RU",
     "municipality": "Novosibirsk",
-    "coordinates": "55.019756, 82.618675"
+    "coordinates": "55.019756,82.618675"
   },
   {
     "ident": "URRP",
@@ -2949,7 +2949,7 @@
     "name": "Platov International Airport",
     "iso_country": "RU",
     "municipality": "Rostov-on-Don",
-    "coordinates": "47.493888, 39.924722"
+    "coordinates": "47.493888,39.924722"
   },
   {
     "ident": "URSS",
@@ -2957,7 +2957,7 @@
     "name": "Sochi International Airport",
     "iso_country": "RU",
     "municipality": "Sochi",
-    "coordinates": "43.449902, 39.9566"
+    "coordinates": "43.449902,39.9566"
   },
   {
     "ident": "USSS",
@@ -2965,7 +2965,7 @@
     "name": "Koltsovo Airport",
     "iso_country": "RU",
     "municipality": "Yekaterinburg",
-    "coordinates": "56.743099212646, 60.802700042725"
+    "coordinates": "56.743099212646,60.802700042725"
   },
   {
     "ident": "UTAA",
@@ -2973,7 +2973,7 @@
     "name": "Ashgabat International Airport",
     "iso_country": "TM",
     "municipality": "Ashgabat",
-    "coordinates": "37.986801, 58.361"
+    "coordinates": "37.986801,58.361"
   },
   {
     "ident": "UTTT",
@@ -2981,7 +2981,7 @@
     "name": "Tashkent International Airport",
     "iso_country": "UZ",
     "municipality": "Tashkent",
-    "coordinates": "41.257900238, 69.2811965942"
+    "coordinates": "41.257900238,69.2811965942"
   },
   {
     "ident": "UUBW",
@@ -2989,7 +2989,7 @@
     "name": "Zhukovsky International Airport",
     "iso_country": "RU",
     "municipality": "Moscow",
-    "coordinates": "55.553299, 38.150002"
+    "coordinates": "55.553299,38.150002"
   },
   {
     "ident": "UUDD",
@@ -2997,7 +2997,7 @@
     "name": "Domodedovo International Airport",
     "iso_country": "RU",
     "municipality": "Moscow",
-    "coordinates": "55.40879821777344, 37.90629959106445"
+    "coordinates": "55.40879821777344,37.90629959106445"
   },
   {
     "ident": "UUEE",
@@ -3005,7 +3005,7 @@
     "name": "Sheremetyevo International Airport",
     "iso_country": "RU",
     "municipality": "Moscow",
-    "coordinates": "55.972599, 37.4146"
+    "coordinates": "55.972599,37.4146"
   },
   {
     "ident": "UUWW",
@@ -3013,7 +3013,7 @@
     "name": "Vnukovo International Airport",
     "iso_country": "RU",
     "municipality": "Moscow",
-    "coordinates": "55.5914993286, 37.2615013123"
+    "coordinates": "55.5914993286,37.2615013123"
   },
   {
     "ident": "UWKD",
@@ -3021,7 +3021,7 @@
     "name": "Kazan International Airport",
     "iso_country": "RU",
     "municipality": "Kazan",
-    "coordinates": "55.606201171875, 49.278701782227"
+    "coordinates": "55.606201171875,49.278701782227"
   },
   {
     "ident": "UWSG",
@@ -3029,7 +3029,7 @@
     "name": "Gagarin International Airport",
     "iso_country": "RU",
     "municipality": "Saratov",
-    "coordinates": "51.712778, 46.171111"
+    "coordinates": "51.712778,46.171111"
   },
   {
     "ident": "UWUU",
@@ -3037,7 +3037,7 @@
     "name": "Ufa International Airport",
     "iso_country": "RU",
     "municipality": "Ufa",
-    "coordinates": "54.557498931885, 55.874401092529"
+    "coordinates": "54.557498931885,55.874401092529"
   },
   {
     "ident": "UWWW",
@@ -3045,7 +3045,7 @@
     "name": "Kurumoch International Airport",
     "iso_country": "RU",
     "municipality": "Samara",
-    "coordinates": "53.504901885986, 50.16429901123"
+    "coordinates": "53.504901885986,50.16429901123"
   },
   {
     "ident": "VABB",
@@ -3053,7 +3053,7 @@
     "name": "Chhatrapati Shivaji International Airport",
     "iso_country": "IN",
     "municipality": "Mumbai",
-    "coordinates": "19.0886993408, 72.8678970337"
+    "coordinates": "19.0886993408,72.8678970337"
   },
   {
     "ident": "VAGO",
@@ -3061,7 +3061,7 @@
     "name": "Dabolim Airport",
     "iso_country": "IN",
     "municipality": "Vasco da Gama",
-    "coordinates": "15.3808, 73.831398"
+    "coordinates": "15.3808,73.831398"
   },
   {
     "ident": "VCBI",
@@ -3069,7 +3069,7 @@
     "name": "Bandaranaike International Colombo Airport",
     "iso_country": "LK",
     "municipality": "Colombo",
-    "coordinates": "7.180759906768799, 79.88410186767578"
+    "coordinates": "7.180759906768799,79.88410186767578"
   },
   {
     "ident": "VDPP",
@@ -3077,7 +3077,7 @@
     "name": "Phnom Penh International Airport",
     "iso_country": "KH",
     "municipality": "Phnom Penh (Pou Senchey)",
-    "coordinates": "11.5466, 104.844002"
+    "coordinates": "11.5466,104.844002"
   },
   {
     "ident": "VDSR",
@@ -3085,7 +3085,7 @@
     "name": "Siem Reap International Airport",
     "iso_country": "KH",
     "municipality": "Siem Reap",
-    "coordinates": "13.41155, 103.813044"
+    "coordinates": "13.41155,103.813044"
   },
   {
     "ident": "VECC",
@@ -3093,7 +3093,7 @@
     "name": "Netaji Subhash Chandra Bose International Airport",
     "iso_country": "IN",
     "municipality": "Kolkata",
-    "coordinates": "22.654699325561523, 88.44670104980469"
+    "coordinates": "22.654699325561523,88.44670104980469"
   },
   {
     "ident": "VGZR",
@@ -3101,7 +3101,7 @@
     "name": "Hazrat Shahjalal International Airport",
     "iso_country": "BD",
     "municipality": "Dhaka",
-    "coordinates": "23.843347, 90.397783"
+    "coordinates": "23.843347,90.397783"
   },
   {
     "ident": "VHHH",
@@ -3109,7 +3109,7 @@
     "name": "Hong Kong International Airport",
     "iso_country": "HK",
     "municipality": "Islands",
-    "coordinates": "22.308901, 113.915001"
+    "coordinates": "22.308901,113.915001"
   },
   {
     "ident": "VIDP",
@@ -3117,7 +3117,7 @@
     "name": "Indira Gandhi International Airport",
     "iso_country": "IN",
     "municipality": "New Delhi",
-    "coordinates": "28.55563, 77.09519"
+    "coordinates": "28.55563,77.09519"
   },
   {
     "ident": "VMMC",
@@ -3125,7 +3125,7 @@
     "name": "Macau International Airport",
     "iso_country": "MO",
     "municipality": "Nossa Senhora do Carmo",
-    "coordinates": "22.149599, 113.592003"
+    "coordinates": "22.149599,113.592003"
   },
   {
     "ident": "VNKT",
@@ -3133,7 +3133,7 @@
     "name": "Tribhuvan International Airport",
     "iso_country": "NP",
     "municipality": "Kathmandu",
-    "coordinates": "27.6966, 85.3591"
+    "coordinates": "27.6966,85.3591"
   },
   {
     "ident": "VOBL",
@@ -3141,7 +3141,7 @@
     "name": "Kempegowda International Airport",
     "iso_country": "IN",
     "municipality": "Bangalore",
-    "coordinates": "13.1979, 77.706299"
+    "coordinates": "13.1979,77.706299"
   },
   {
     "ident": "VOCI",
@@ -3149,7 +3149,7 @@
     "name": "Cochin International Airport",
     "iso_country": "IN",
     "municipality": "Kochi",
-    "coordinates": "10.152, 76.401901"
+    "coordinates": "10.152,76.401901"
   },
   {
     "ident": "VOHS",
@@ -3157,7 +3157,7 @@
     "name": "Rajiv Gandhi International Airport",
     "iso_country": "IN",
     "municipality": "Hyderabad",
-    "coordinates": "17.231318, 78.429855"
+    "coordinates": "17.231318,78.429855"
   },
   {
     "ident": "VOMM",
@@ -3165,7 +3165,7 @@
     "name": "Chennai International Airport",
     "iso_country": "IN",
     "municipality": "Chennai",
-    "coordinates": "12.990005, 80.169296"
+    "coordinates": "12.990005,80.169296"
   },
   {
     "ident": "VOTV",
@@ -3173,7 +3173,7 @@
     "name": "Thiruvananthapuram International Airport",
     "iso_country": "IN",
     "municipality": "Thiruvananthapuram",
-    "coordinates": "8.48212, 76.920097"
+    "coordinates": "8.48212,76.920097"
   },
   {
     "ident": "VRMM",
@@ -3181,7 +3181,7 @@
     "name": "Malé International Airport",
     "iso_country": "MV",
     "municipality": "Malé",
-    "coordinates": "4.191830158233643, 73.52909851074219"
+    "coordinates": "4.191830158233643,73.52909851074219"
   },
   {
     "ident": "VTBD",
@@ -3189,7 +3189,7 @@
     "name": "Don Mueang International Airport",
     "iso_country": "TH",
     "municipality": "Bangkok",
-    "coordinates": "13.9125995636, 100.607002258"
+    "coordinates": "13.9125995636,100.607002258"
   },
   {
     "ident": "VTBS",
@@ -3197,7 +3197,7 @@
     "name": "Suvarnabhumi Airport",
     "iso_country": "TH",
     "municipality": "Bangkok",
-    "coordinates": "13.681099891662598, 100.74700164794922"
+    "coordinates": "13.681099891662598,100.74700164794922"
   },
   {
     "ident": "VTCC",
@@ -3205,7 +3205,7 @@
     "name": "Chiang Mai International Airport",
     "iso_country": "TH",
     "municipality": "Chiang Mai",
-    "coordinates": "18.766799926799997, 98.962600708"
+    "coordinates": "18.766799926799997,98.962600708"
   },
   {
     "ident": "VTSP",
@@ -3213,7 +3213,7 @@
     "name": "Phuket International Airport",
     "iso_country": "TH",
     "municipality": "Phuket",
-    "coordinates": "8.1132, 98.316902"
+    "coordinates": "8.1132,98.316902"
   },
   {
     "ident": "VVNB",
@@ -3221,7 +3221,7 @@
     "name": "Noi Bai International Airport",
     "iso_country": "VN",
     "municipality": "Hanoi (Soc Son)",
-    "coordinates": "21.221201, 105.806999"
+    "coordinates": "21.221201,105.806999"
   },
   {
     "ident": "VVTS",
@@ -3229,7 +3229,7 @@
     "name": "Tan Son Nhat International Airport",
     "iso_country": "VN",
     "municipality": "Ho Chi Minh City",
-    "coordinates": "10.8188, 106.652"
+    "coordinates": "10.8188,106.652"
   },
   {
     "ident": "VYMD",
@@ -3237,7 +3237,7 @@
     "name": "Mandalay International Airport",
     "iso_country": "MM",
     "municipality": "Mandalay",
-    "coordinates": "21.702199935913086, 95.97789764404297"
+    "coordinates": "21.702199935913086,95.97789764404297"
   },
   {
     "ident": "VYYY",
@@ -3245,7 +3245,7 @@
     "name": "Yangon International Airport",
     "iso_country": "MM",
     "municipality": "Yangon",
-    "coordinates": "16.907300949099998, 96.1332015991"
+    "coordinates": "16.907300949099998,96.1332015991"
   },
   {
     "ident": "WAAA",
@@ -3253,7 +3253,7 @@
     "name": "Hasanuddin International Airport",
     "iso_country": "ID",
     "municipality": "Ujung Pandang",
-    "coordinates": "-5.06163, 119.554001"
+    "coordinates": "-5.06163,119.554001"
   },
   {
     "ident": "WADD",
@@ -3261,7 +3261,7 @@
     "name": "Ngurah Rai (Bali) International Airport",
     "iso_country": "ID",
     "municipality": "Denpasar",
-    "coordinates": "-8.74817, 115.167"
+    "coordinates": "-8.74817,115.167"
   },
   {
     "ident": "WAJJ",
@@ -3269,7 +3269,7 @@
     "name": "Dortheys Hiyo Eluay International Airport",
     "iso_country": "ID",
     "municipality": "Sentani",
-    "coordinates": "-2.579627, 140.519857"
+    "coordinates": "-2.579627,140.519857"
   },
   {
     "ident": "WALL",
@@ -3277,7 +3277,7 @@
     "name": "Sultan Aji Muhammad Sulaiman Sepinggan International Airport",
     "iso_country": "ID",
     "municipality": "Balikpapan",
-    "coordinates": "-1.268342, 116.89452"
+    "coordinates": "-1.268342,116.89452"
   },
   {
     "ident": "WARR",
@@ -3285,7 +3285,7 @@
     "name": "Juanda International Airport",
     "iso_country": "ID",
     "municipality": "Surabaya",
-    "coordinates": "-7.37983, 112.787003"
+    "coordinates": "-7.37983,112.787003"
   },
   {
     "ident": "WBSB",
@@ -3293,7 +3293,7 @@
     "name": "Brunei International Airport",
     "iso_country": "BN",
     "municipality": "Bandar Seri Begawan",
-    "coordinates": "4.9442, 114.928001"
+    "coordinates": "4.9442,114.928001"
   },
   {
     "ident": "WIII",
@@ -3301,7 +3301,7 @@
     "name": "Soekarno-Hatta International Airport",
     "iso_country": "ID",
     "municipality": "Jakarta",
-    "coordinates": "-6.1255698204, 106.65599823"
+    "coordinates": "-6.1255698204,106.65599823"
   },
   {
     "ident": "WIMM",
@@ -3309,7 +3309,7 @@
     "name": "Kualanamu International Airport",
     "iso_country": "ID",
     "municipality": "Medan",
-    "coordinates": "3.637847, 98.870566"
+    "coordinates": "3.637847,98.870566"
   },
   {
     "ident": "WMKK",
@@ -3317,7 +3317,7 @@
     "name": "Kuala Lumpur International Airport",
     "iso_country": "MY",
     "municipality": "Sepang",
-    "coordinates": "2.74558, 101.709999"
+    "coordinates": "2.74558,101.709999"
   },
   {
     "ident": "WSSS",
@@ -3325,7 +3325,7 @@
     "name": "Singapore Changi Airport",
     "iso_country": "SG",
     "municipality": "Singapore",
-    "coordinates": "1.35019, 103.994003"
+    "coordinates": "1.35019,103.994003"
   },
   {
     "ident": "YBBN",
@@ -3333,7 +3333,7 @@
     "name": "Brisbane International Airport",
     "iso_country": "AU",
     "municipality": "Brisbane",
-    "coordinates": "-27.384199142456055, 153.11700439453125"
+    "coordinates": "-27.384199142456055,153.11700439453125"
   },
   {
     "ident": "YMML",
@@ -3341,7 +3341,7 @@
     "name": "Melbourne International Airport",
     "iso_country": "AU",
     "municipality": "Melbourne",
-    "coordinates": "-37.673302, 144.843002"
+    "coordinates": "-37.673302,144.843002"
   },
   {
     "ident": "YNT",
@@ -3349,7 +3349,7 @@
     "name": "Yantai Penglai International Airport",
     "iso_country": "CN",
     "municipality": "Yantai",
-    "coordinates": "37.659724, 120.978124"
+    "coordinates": "37.659724,120.978124"
   },
   {
     "ident": "YPAD",
@@ -3357,7 +3357,7 @@
     "name": "Adelaide International Airport",
     "iso_country": "AU",
     "municipality": "Adelaide",
-    "coordinates": "-34.947512, 138.533393"
+    "coordinates": "-34.947512,138.533393"
   },
   {
     "ident": "YPDN",
@@ -3365,7 +3365,7 @@
     "name": "Darwin International Airport / RAAF Darwin",
     "iso_country": "AU",
     "municipality": "Darwin",
-    "coordinates": "-12.41497, 130.88185"
+    "coordinates": "-12.41497,130.88185"
   },
   {
     "ident": "YPPH",
@@ -3373,7 +3373,7 @@
     "name": "Perth International Airport",
     "iso_country": "AU",
     "municipality": "Perth",
-    "coordinates": "-31.94029998779297, 115.96700286865234"
+    "coordinates": "-31.94029998779297,115.96700286865234"
   },
   {
     "ident": "YSSY",
@@ -3381,7 +3381,7 @@
     "name": "Sydney Kingsford Smith International Airport",
     "iso_country": "AU",
     "municipality": "Sydney",
-    "coordinates": "-33.94609832763672, 151.177001953125"
+    "coordinates": "-33.94609832763672,151.177001953125"
   },
   {
     "ident": "ZBAA",
@@ -3389,7 +3389,7 @@
     "name": "Beijing Capital International Airport",
     "iso_country": "CN",
     "municipality": "Beijing",
-    "coordinates": "40.080101013183594, 116.58499908447266"
+    "coordinates": "40.080101013183594,116.58499908447266"
   },
   {
     "ident": "ZBAD",
@@ -3397,7 +3397,7 @@
     "name": "Beijing Daxing International Airport",
     "iso_country": "CN",
     "municipality": "Beijing",
-    "coordinates": "39.509945, 116.41092"
+    "coordinates": "39.509945,116.41092"
   },
   {
     "ident": "ZBHH",
@@ -3405,7 +3405,7 @@
     "name": "Hohhot Baita International Airport",
     "iso_country": "CN",
     "municipality": "Hohhot",
-    "coordinates": "40.849658, 111.824598"
+    "coordinates": "40.849658,111.824598"
   },
   {
     "ident": "ZBTJ",
@@ -3413,7 +3413,7 @@
     "name": "Tianjin Binhai International Airport",
     "iso_country": "CN",
     "municipality": "Tianjin",
-    "coordinates": "39.124401092499994, 117.346000671"
+    "coordinates": "39.124401092499994,117.346000671"
   },
   {
     "ident": "ZBYN",
@@ -3421,7 +3421,7 @@
     "name": "Taiyuan Wusu Airport",
     "iso_country": "CN",
     "municipality": "Taiyuan",
-    "coordinates": "37.746899, 112.627998"
+    "coordinates": "37.746899,112.627998"
   },
   {
     "ident": "ZGGG",
@@ -3429,7 +3429,7 @@
     "name": "Guangzhou Baiyun International Airport",
     "iso_country": "CN",
     "municipality": "Guangzhou (Huadu)",
-    "coordinates": "23.392401, 113.299004"
+    "coordinates": "23.392401,113.299004"
   },
   {
     "ident": "ZGHA",
@@ -3437,7 +3437,7 @@
     "name": "Changsha Huanghua International Airport",
     "iso_country": "CN",
     "municipality": "Changsha (Changsha)",
-    "coordinates": "28.189199, 113.220001"
+    "coordinates": "28.189199,113.220001"
   },
   {
     "ident": "ZGKL",
@@ -3445,7 +3445,7 @@
     "name": "Guilin Liangjiang International Airport",
     "iso_country": "CN",
     "municipality": "Guilin (Lingui)",
-    "coordinates": "25.219828, 110.039553"
+    "coordinates": "25.219828,110.039553"
   },
   {
     "ident": "ZGNN",
@@ -3453,7 +3453,7 @@
     "name": "Nanning Wuxu Airport",
     "iso_country": "CN",
     "municipality": "Nanning (Jiangnan)",
-    "coordinates": "22.608299, 108.171997"
+    "coordinates": "22.608299,108.171997"
   },
   {
     "ident": "ZGSZ",
@@ -3461,7 +3461,7 @@
     "name": "Shenzhen Bao'an International Airport",
     "iso_country": "CN",
     "municipality": "Shenzhen (Bao'an)",
-    "coordinates": "22.639299, 113.810997"
+    "coordinates": "22.639299,113.810997"
   },
   {
     "ident": "ZHCC",
@@ -3469,7 +3469,7 @@
     "name": "Zhengzhou Xinzheng International Airport",
     "iso_country": "CN",
     "municipality": "Zhengzhou",
-    "coordinates": "34.526497, 113.849165"
+    "coordinates": "34.526497,113.849165"
   },
   {
     "ident": "ZHHH",
@@ -3477,7 +3477,7 @@
     "name": "Wuhan Tianhe International Airport",
     "iso_country": "CN",
     "municipality": "Wuhan (Huangpi)",
-    "coordinates": "30.774798, 114.213723"
+    "coordinates": "30.774798,114.213723"
   },
   {
     "ident": "ZJHK",
@@ -3485,7 +3485,7 @@
     "name": "Haikou Meilan International Airport",
     "iso_country": "CN",
     "municipality": "Haikou (Meilan)",
-    "coordinates": "19.9349, 110.459"
+    "coordinates": "19.9349,110.459"
   },
   {
     "ident": "ZJSY",
@@ -3493,7 +3493,7 @@
     "name": "Sanya Phoenix International Airport",
     "iso_country": "CN",
     "municipality": "Sanya (Tianya)",
-    "coordinates": "18.3029, 109.412003"
+    "coordinates": "18.3029,109.412003"
   },
   {
     "ident": "ZLLL",
@@ -3501,7 +3501,7 @@
     "name": "Lanzhou Zhongchuan International Airport",
     "iso_country": "CN",
     "municipality": "Lanzhou (Yongdeng)",
-    "coordinates": "36.515202, 103.620003"
+    "coordinates": "36.515202,103.620003"
   },
   {
     "ident": "ZLXY",
@@ -3509,7 +3509,7 @@
     "name": "Xi'an Xianyang International Airport",
     "iso_country": "CN",
     "municipality": "Xianyang (Weicheng)",
-    "coordinates": "34.447102, 108.751999"
+    "coordinates": "34.447102,108.751999"
   },
   {
     "ident": "ZMCK",
@@ -3517,7 +3517,7 @@
     "name": "Ulaanbaatar Chinggis Khaan International Airport",
     "iso_country": "MN",
     "municipality": "Ulaanbaatar (Sergelen)",
-    "coordinates": "47.646916, 106.819833"
+    "coordinates": "47.646916,106.819833"
   },
   {
     "ident": "ZPPP",
@@ -3525,7 +3525,7 @@
     "name": "Kunming Changshui International Airport",
     "iso_country": "CN",
     "municipality": "Kunming",
-    "coordinates": "25.110313, 102.936743"
+    "coordinates": "25.110313,102.936743"
   },
   {
     "ident": "ZSAM",
@@ -3533,7 +3533,7 @@
     "name": "Xiamen Gaoqi International Airport",
     "iso_country": "CN",
     "municipality": "Xiamen",
-    "coordinates": "24.54400062561035, 118.12799835205078"
+    "coordinates": "24.54400062561035,118.12799835205078"
   },
   {
     "ident": "ZSCN",
@@ -3541,7 +3541,7 @@
     "name": "Nanchang Changbei International Airport",
     "iso_country": "CN",
     "municipality": "Nanchang",
-    "coordinates": "28.864815, 115.90271"
+    "coordinates": "28.864815,115.90271"
   },
   {
     "ident": "ZSFZ",
@@ -3549,7 +3549,7 @@
     "name": "Fuzhou Changle International Airport",
     "iso_country": "CN",
     "municipality": "Fuzhou",
-    "coordinates": "25.934669, 119.66318"
+    "coordinates": "25.934669,119.66318"
   },
   {
     "ident": "ZSHC",
@@ -3557,7 +3557,7 @@
     "name": "Hangzhou Xiaoshan International Airport",
     "iso_country": "CN",
     "municipality": "Hangzhou",
-    "coordinates": "30.23609, 120.428865"
+    "coordinates": "30.23609,120.428865"
   },
   {
     "ident": "ZSJN",
@@ -3565,7 +3565,7 @@
     "name": "Jinan Yaoqiang International Airport",
     "iso_country": "CN",
     "municipality": "Jinan",
-    "coordinates": "36.857201, 117.216003"
+    "coordinates": "36.857201,117.216003"
   },
   {
     "ident": "ZSNB",
@@ -3573,7 +3573,7 @@
     "name": "Ningbo Lishe International Airport",
     "iso_country": "CN",
     "municipality": "Ningbo",
-    "coordinates": "29.82670021057129, 121.46199798583984"
+    "coordinates": "29.82670021057129,121.46199798583984"
   },
   {
     "ident": "ZSNJ",
@@ -3581,7 +3581,7 @@
     "name": "Nanjing Lukou International Airport",
     "iso_country": "CN",
     "municipality": "Nanjing",
-    "coordinates": "31.735032, 118.865949"
+    "coordinates": "31.735032,118.865949"
   },
   {
     "ident": "ZSPD",
@@ -3589,7 +3589,7 @@
     "name": "Shanghai Pudong International Airport",
     "iso_country": "CN",
     "municipality": "Shanghai (Pudong)",
-    "coordinates": "31.1434, 121.805"
+    "coordinates": "31.1434,121.805"
   },
   {
     "ident": "ZSSS",
@@ -3597,7 +3597,7 @@
     "name": "Shanghai Hongqiao International Airport",
     "iso_country": "CN",
     "municipality": "Shanghai (Minhang)",
-    "coordinates": "31.198104, 121.33426"
+    "coordinates": "31.198104,121.33426"
   },
   {
     "ident": "ZSWZ",
@@ -3605,7 +3605,7 @@
     "name": "Wenzhou Longwan International Airport",
     "iso_country": "CN",
     "municipality": "Wenzhou",
-    "coordinates": "27.912201, 120.851997"
+    "coordinates": "27.912201,120.851997"
   },
   {
     "ident": "ZUCK",
@@ -3613,7 +3613,7 @@
     "name": "Chongqing Jiangbei International Airport",
     "iso_country": "CN",
     "municipality": "Chongqing",
-    "coordinates": "29.712254, 106.651895"
+    "coordinates": "29.712254,106.651895"
   },
   {
     "ident": "ZUGY",
@@ -3621,7 +3621,7 @@
     "name": "Guiyang Longdongbao International Airport",
     "iso_country": "CN",
     "municipality": "Guiyang (Nanming)",
-    "coordinates": "26.541466, 106.803331"
+    "coordinates": "26.541466,106.803331"
   },
   {
     "ident": "ZUTF",
@@ -3629,7 +3629,7 @@
     "name": "Chengdu Tianfu International Airport",
     "iso_country": "CN",
     "municipality": "Chengdu (Jianyang)",
-    "coordinates": "30.31252, 104.441284"
+    "coordinates": "30.31252,104.441284"
   },
   {
     "ident": "ZUUU",
@@ -3637,7 +3637,7 @@
     "name": "Chengdu Shuangliu International Airport",
     "iso_country": "CN",
     "municipality": "Chengdu (Shuangliu)",
-    "coordinates": "30.558257, 103.945966"
+    "coordinates": "30.558257,103.945966"
   },
   {
     "ident": "ZWWW",
@@ -3645,7 +3645,7 @@
     "name": "Ürümqi Diwopu International Airport",
     "iso_country": "CN",
     "municipality": "Ürümqi",
-    "coordinates": "43.907100677490234, 87.47419738769531"
+    "coordinates": "43.907100677490234,87.47419738769531"
   },
   {
     "ident": "ZYCC",
@@ -3653,7 +3653,7 @@
     "name": "Changchun Longjia International Airport",
     "iso_country": "CN",
     "municipality": "Changchun",
-    "coordinates": "43.996201, 125.684998"
+    "coordinates": "43.996201,125.684998"
   },
   {
     "ident": "ZYHB",
@@ -3661,22 +3661,22 @@
     "name": "Harbin Taiping International Airport",
     "iso_country": "CN",
     "municipality": "Harbin",
-    "coordinates": "45.623402, 126.25"
+    "coordinates": "45.623402,126.25"
   },
   {
     "ident": "ZYTL",
     "type": "large_airport",
     "name": "Dalian Zhoushuizi International Airport",
     "iso_country": "CN",
-    "municipality": "Ganjingzi, Dalian",
-    "coordinates": "38.965698, 121.539001"
+    "municipality": "Ganjingzi,Dalian",
+    "coordinates": "38.965698,121.539001"
   },
   {
     "ident": "ZYTX",
     "type": "large_airport",
     "name": "Shenyang Taoxian International Airport",
     "iso_country": "CN",
-    "municipality": "Hunnan, Shenyang",
-    "coordinates": "41.639801, 123.483002"
+    "municipality": "Hunnan,Shenyang",
+    "coordinates": "41.639801,123.483002"
   }
 ]
