@@ -1,20 +1,22 @@
 import React, { useState, useEffect } from "react";
 import data from "../assets/codes.json";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const Airport = () => {
   const [radioValue, setRadioValue] = useState("departure");
-  const [startDate, setStartDate] = useState("2024-05-12T12:00");
-  const [endDate, setEndDate] = useState("2024-05-12T13:00");
+  const dateOfTheDay = new Date().toISOString().split("T")[0];
+  const [startDate, setStartDate] = useState(dateOfTheDay + "T12:00");
+  const [endDate, setEndDate] = useState(dateOfTheDay + "T13:00");
   const [selectedAirport, setSelectedAirport] = useState("");
   const [numbersFlights, setNumbersFlights] = useState(0);
   const [flightsDetails, setFlightsDetails] = useState([]);
   const [sortConfig, setSortConfig] = useState({ key: null, direction: "asc" });
   const [showFavoritesMessage, setShowFavoritesMessage] = useState(false);
   const [showErrorMessage, setShowErrorMessage] = useState(false);
+  const [showAllFlights, setShowAllFlights] = useState(true); 
 
   useEffect(() => {
-    setSelectedAirport(data[0]?.name); // Select the first option by default
+    setSelectedAirport(data[0]?.name);
     handleSort("estArrivalAirport");
   }, []);
 
@@ -22,7 +24,7 @@ const Airport = () => {
     if (selectedAirport) {
       getAPI();
     }
-  }, [radioValue, selectedAirport, startDate, endDate]);
+  }, [radioValue, selectedAirport, startDate, endDate, showAllFlights]);
 
   const getAPI = () => {
     const start = Math.floor(new Date(startDate).getTime() / 1000);
@@ -51,7 +53,10 @@ const Airport = () => {
 
     return (
       <p>
-        Here are all the flights that {radioValue === "departure" ? "departed from" : "arrived at"} <strong>{selectedAirport}</strong><br />
+        Here are all the flights that{" "}
+        {radioValue === "departure" ? "departed from" : "arrived at"}{" "}
+        <strong>{selectedAirport}</strong>
+        <br />
         between {formatDate(startDate)} and {formatDate(endDate)}:
       </p>
     );
@@ -89,10 +94,10 @@ const Airport = () => {
       localStorage.setItem("favorites", JSON.stringify(favorites));
       setShowFavoritesMessage(true);
       setShowErrorMessage(false);
-      setTimeout(() => setShowFavoritesMessage(false), 3000); // Hide after 3 seconds
+      setTimeout(() => setShowFavoritesMessage(false), 3000);
     } else {
       setShowErrorMessage(true);
-      setTimeout(() => setShowErrorMessage(false), 3000); // Hide after 3 seconds
+      setTimeout(() => setShowErrorMessage(false), 3000);
     }
   };
 
@@ -116,10 +121,18 @@ const Airport = () => {
       if (sortConfig.key === "firstSeen" || sortConfig.key === "lastSeen") {
         aValue = new Date(aValue * 1000);
         bValue = new Date(bValue * 1000);
-        return sortConfig.direction === "asc" ? aValue - bValue : bValue - aValue;
+        return sortConfig.direction === "asc"
+          ? aValue - bValue
+          : bValue - aValue;
       }
-      if (sortConfig.key === "estDepartureAirport" || sortConfig.key === "estArrivalAirport" || sortConfig.key === "callsign") {
-        return sortConfig.direction === "asc" ? compareStrings(aValue, bValue) : compareStrings(bValue, aValue);
+      if (
+        sortConfig.key === "estDepartureAirport" ||
+        sortConfig.key === "estArrivalAirport" ||
+        sortConfig.key === "callsign"
+      ) {
+        return sortConfig.direction === "asc"
+          ? compareStrings(aValue, bValue)
+          : compareStrings(bValue, aValue);
       }
       if (aValue < bValue) {
         return sortConfig.direction === "asc" ? -1 : 1;
@@ -131,6 +144,20 @@ const Airport = () => {
     return 0;
   });
 
+  const filteredFlights = sortedFlights.filter((flight) => {
+    if (showAllFlights) {
+      return true; 
+    } else {
+   
+      return (
+        flight.estDepartureAirport !== undefined &&
+        flight.estArrivalAirport !== undefined &&
+        getAirportNameByCode(flight.estDepartureAirport) !== "Unknown" && 
+        getAirportNameByCode(flight.estArrivalAirport) !== "Unknown"
+      );
+    }
+  });
+
   const options = data.map((airport) => (
     <option key={airport.ident} value={airport.name}>
       {airport.name}
@@ -140,37 +167,46 @@ const Airport = () => {
   return (
     <>
       <h1>Airports</h1>
-
       {showFavoritesMessage && (
         <div className="alert alert-success" role="alert">
           Airport added to favorites!
         </div>
       )}
-
       {showErrorMessage && (
         <div className="alert alert-danger" role="alert">
           This airport is already in favorites!
         </div>
       )}
-
       <input
         type="radio"
         name="airports"
         value="departures"
         checked={radioValue === "departure"}
-        onChange={() => { setRadioValue("departure"); handleSort("estArrivalAirport") }}
+        onChange={() => {
+          setRadioValue("departure");
+          handleSort("estArrivalAirport");
+        }}
       />{" "}
       <label htmlFor="departures">Departures</label>
-
       <input
         type="radio"
         name="airports"
         value="arrivals"
         checked={radioValue === "arrival"}
-        onChange={() => { setRadioValue("arrival"); handleSort("estDepartureAirport") }}
+        onChange={() => {
+          setRadioValue("arrival");
+          handleSort("estDepartureAirport");
+        }}
       />
       <label htmlFor="arrivals">Arrivals</label>
-
+      <input
+        type="checkbox"
+        id="allFlights"
+        name="allFlights"
+        checked={showAllFlights} 
+        onChange={() => setShowAllFlights(!showAllFlights)} 
+      />
+      <label htmlFor="allFlights">Show All flights</label>
       <br />
       <br />
       <input
@@ -199,17 +235,21 @@ const Airport = () => {
       >
         {options}
       </select>
-      <button onClick={() => addFavorites(selectedAirport)}>Add to favorites</button>
-
+      <button onClick={() => addFavorites(selectedAirport)}>
+        Add to favorites
+      </button>
       <p>Number of flights: {numbersFlights}</p>
       {checkRadio()}
-
-      {sortedFlights.length > 0 ? (
+      {filteredFlights.length > 0 ? (
         <table>
           <thead>
             <tr>
-              <th onClick={() => handleSort("estDepartureAirport")}>Departure Airport</th>
-              <th onClick={() => handleSort("estArrivalAirport")}>Arrival Airport</th>
+              <th onClick={() => handleSort("estDepartureAirport")}>
+                Departure Airport
+              </th>
+              <th onClick={() => handleSort("estArrivalAirport")}>
+                Arrival Airport
+              </th>
               <th onClick={() => handleSort("firstSeen")}>Departure Time</th>
               <th onClick={() => handleSort("lastSeen")}>Arrival Time</th>
               <th onClick={() => handleSort("callsign")}>Flight Number</th>
@@ -217,7 +257,7 @@ const Airport = () => {
             </tr>
           </thead>
           <tbody>
-            {sortedFlights.map((flight, index) => (
+            {filteredFlights.map((flight, index) => (
               <tr key={index}>
                 <td>{getAirportNameByCode(flight.estDepartureAirport)}</td>
                 <td>{getAirportNameByCode(flight.estArrivalAirport)}</td>
@@ -230,7 +270,9 @@ const Airport = () => {
           </tbody>
         </table>
       ) : (
-        <p><strong>No flights found</strong></p>
+        <p>
+          <strong>No flights found</strong>
+        </p>
       )}
     </>
   );
