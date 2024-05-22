@@ -20,7 +20,7 @@ To install the project, follow the steps below:
 
 1. Clone the repository on your device:
 
-    ``bash
+    ```bash
     git clone https://github.com/floranstucki/whereinthesky.git
     cd whereinthesky
     ```
