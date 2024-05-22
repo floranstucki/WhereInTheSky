@@ -1,8 +1,11 @@
-# React + Vite
+# Where In The Sky
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Where in the sky is a project based on the open sky API and Map Box API
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+For install the project, you need to clone the project in your device with the command :
+
+git clone https://github.com/floranstucki/whereinthesky.git
+
+npm install 

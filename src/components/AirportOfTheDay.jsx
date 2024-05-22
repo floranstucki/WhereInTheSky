@@ -17,7 +17,7 @@ const getCurrentDate = () => {
   return `${year}-${month}-${day}`;
 };
 
-const AllState = () => {
+const AirportOfTheDay = () => {
   const [airport, setAirport] = useState(null);
 
   useEffect(() => {
@@ -77,4 +77,4 @@ const AllState = () => {
   );
 };
 
-export default AllState;
+export default AirportOfTheDay;

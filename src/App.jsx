@@ -1,10 +1,8 @@
-import { useState } from "react";
 import "./App.css";
 import { Routes, Route, Link } from "react-router-dom";
 import Airport from "./components/Airport";
 import Favorite from "./components/Favorites";
-import Airplane from "./components/Airplane";
-import AllState from "./components/AllState";
+import AirportOfTheDay from "./components/AirportOfTheDay";
 function App() {
   return (
     <>
@@ -19,7 +17,7 @@ function App() {
       </Link>
 
       <Routes>
-        <Route path="/" element={<AllState />} />
+        <Route path="/" element={<AirportOfTheDay />} />
         <Route
           path="/airports"
           element={<Airport />}
