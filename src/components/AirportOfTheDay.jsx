@@ -40,8 +40,9 @@ const AirportOfTheDay = () => {
     handleAirportSelection(datas);
   }, []);
   useEffect(() => {
+    const MAPBOX_TOKEN = 'YOUR_TOKEN';
     if (airport) {
-      mapboxgl.accessToken = 'pk.eyJ1Ijoic25vaHl5IiwiYSI6ImNsdnFwN2ZwbzA1OXkyam55NGdib3Fkc3MifQ.FHwq0NOjJHBbXTw-_RwysQ'; 
+      mapboxgl.accessToken = MAPBOX_TOKEN; 
       const coordinates = airport.coordinates.split(',').map(parseFloat);
       const map = new mapboxgl.Map({
         container: 'map',
