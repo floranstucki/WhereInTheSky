@@ -42,7 +42,8 @@ To install the project, follow the steps below:
 2. Start the project:
 
     ```bash
-    npm start
+    npm run dev
+    http://localhost:5173
     ```
 
 ## Contributors
