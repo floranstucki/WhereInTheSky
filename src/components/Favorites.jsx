@@ -82,56 +82,59 @@ const Favorite = () => {
         </div>
       )}
 
-      {favorites.map((favorite, index) => (
-        <div key={index}>
-          <h3>{favorite}</h3>
-          <button onClick={() => removeFavorite(favorite)}>
-            Delete from favorites
-          </button>
-          {flights[index] && flights[index].length > 0 ? (
-            <table className="table">
-              <thead>
-                <tr>
-                  <th>Flight</th>
-                  <th>Departure Airport</th>
-                  <th>Arrival Airport</th>
-                  <th>Departure Time</th>
-                </tr>
-              </thead>
-              <tbody>
-                {flights[index]
-                  .filter((flight) => {
-                    const arrivalAirport = getAirportNameByCode(
-                      flight.estArrivalAirport
-                    );
-                    return arrivalAirport !== "Unknown"; 
-                  })
-                  .sort((a, b) => {
-                    // Tri par heure de départ
-                    const departureTimeA = new Date(a.firstSeen * 1000).getTime();
-                    const departureTimeB = new Date(b.firstSeen * 1000).getTime();
-                    return departureTimeA - departureTimeB;
-                  })
-                  .map((flight, flightIndex) => {
-                    const arrivalAirport = getAirportNameByCode(
-                      flight.estArrivalAirport
-                    );
-                    return (
-                      <tr key={flightIndex}>
-                        <td>{flight.callsign}</td>
-                        <td>{getAirportNameByCode(flight.estDepartureAirport)}</td>
-                        <td>{arrivalAirport}</td>
-                        <td>{new Date(flight.firstSeen * 1000).toLocaleTimeString()}</td>
-                      </tr>
-                    );
-                  })}
-              </tbody>
-            </table>
-          ) : (
-            <p>No flights found for today</p>
-          )}
-        </div>
-      ))}
+{favorites.length === 0 ? (
+        <p>No favorite airports found</p>
+      ) : (
+        favorites.map((favorite, index) => (
+          <div key={index}>
+            <h3>{favorite}</h3>
+            <button onClick={() => removeFavorite(favorite)}>
+              Delete from favorites
+            </button>
+            {flights[index] && flights[index].length > 0 ? (
+              <table className="table">
+                <thead>
+                  <tr>
+                    <th>Flight</th>
+                    <th>Departure Airport</th>
+                    <th>Arrival Airport</th>
+                    <th>Departure Time</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {flights[index]
+                    .filter((flight) => {
+                      const arrivalAirport = getAirportNameByCode(
+                        flight.estArrivalAirport
+                      );
+                      return arrivalAirport !== "Unknown";
+                    })
+                    .sort((a, b) => {
+                      const departureTimeA = new Date(a.firstSeen * 1000).getTime();
+                      const departureTimeB = new Date(b.firstSeen * 1000).getTime();
+                      return departureTimeA - departureTimeB;
+                    })
+                    .map((flight, flightIndex) => {
+                      const arrivalAirport = getAirportNameByCode(
+                        flight.estArrivalAirport
+                      );
+                      return (
+                        <tr key={flightIndex}>
+                          <td>{flight.callsign}</td>
+                          <td>{getAirportNameByCode(flight.estDepartureAirport)}</td>
+                          <td>{arrivalAirport}</td>
+                          <td>{new Date(flight.firstSeen * 1000).toLocaleTimeString()}</td>
+                        </tr>
+                      );
+                    })}
+                </tbody>
+              </table>
+            ) : (
+              <p>No flights found for today</p>
+            )}
+          </div>
+        ))
+      )}
     </>
   );
 };
